@@ -1,0 +1,1782 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e4]:
+      - paragraph [ref=e8]: Miễn phí vận chuyển cho mọi đơn hàng từ 499.000 VNĐ - Hotline 1900 255 579
+      - generic [ref=e9]:
+        - combobox [ref=e11] [cursor=pointer]:
+          - generic: Tiếng Việt
+          - img [ref=e12]
+        - generic [ref=e14]:
+          - img [ref=e15]
+          - link "Đăng nhập" [ref=e19] [cursor=pointer]:
+            - /url: /vn/login
+          - link "Đăng ký" [ref=e21] [cursor=pointer]:
+            - /url: /vn/register
+    - generic [ref=e23]:
+      - link "Welcome to MUJI" [ref=e30] [cursor=pointer]:
+        - /url: /vn
+        - img "Welcome to MUJI" [ref=e31]
+      - generic [ref=e33]:
+        - generic [ref=e36]:
+          - img [ref=e37]
+          - textbox "Search" [ref=e40]:
+            - /placeholder: Bạn đang muốn tìm kiếm gì?
+          - img "Đóng" [ref=e41] [cursor=pointer]
+        - generic [ref=e42] [cursor=pointer]:
+          - generic [ref=e43]: "0"
+          - img [ref=e45]
+  - main [ref=e49]:
+    - generic [ref=e50]:
+      - generic [ref=e53]:
+        - link "Jun.26 - EC PROMOTION HH" [ref=e55] [cursor=pointer]:
+          - /url: https://www.muji.com.vn/vn/category/1315-thursday-promotion-2025
+          - img "Jun.26 - EC PROMOTION HH" [ref=e56]
+        - link "Jun.26 - EC PROMOTION GM" [ref=e58] [cursor=pointer]:
+          - /url: https://www.muji.com.vn/vn/category/93-special-sales
+          - img "Jun.26 - EC PROMOTION GM" [ref=e59]
+        - link "June 26 - Travel" [ref=e61] [cursor=pointer]:
+          - /url: https://www.muji.com.vn/vn/category/50-traveling
+          - img "June 26 - Travel" [ref=e62]
+        - link "JUNE 26 - RAINCOAT" [ref=e64] [cursor=pointer]:
+          - /url: https://www.muji.com.vn/vn/product/muji-raincoat-vnm0600?variant=8936215249502
+          - img "JUNE 26 - RAINCOAT" [ref=e65]
+        - link "Jun.26 - Lunch Box" [ref=e67] [cursor=pointer]:
+          - /url: https://www.muji.com.vn/vn/search?q=h%E1%BB%99p%20c%C6%A1m
+          - img "Jun.26 - Lunch Box" [ref=e68]
+        - link "May.26 - High Twisted" [ref=e70] [cursor=pointer]:
+          - /url: https://www.muji.com.vn/vn/category/2609-high-twisted-2026
+          - img "May.26 - High Twisted" [ref=e71]
+        - link "Apr.26 - Tổng hợp các loại ghế" [ref=e73] [cursor=pointer]:
+          - /url: https://www.muji.com.vn/vn/category/2532-sofa-chairs
+          - img "Apr.26 - Tổng hợp các loại ghế" [ref=e74]
+        - link "May.26 - New skin care" [ref=e76] [cursor=pointer]:
+          - /url: https://www.muji.com.vn/vn/category/243-care-items
+          - img "May.26 - New skin care" [ref=e77]
+        - link "May.26 - Bedding for summer" [ref=e79] [cursor=pointer]:
+          - /url: https://www.muji.com.vn/vn/category/45-fabrics
+          - img "May.26 - Bedding for summer" [ref=e80]
+        - link "Mar.26 - Pickup store banner" [ref=e82] [cursor=pointer]:
+          - /url: https://www.muji.com.vn/vn/page/pickupstore
+          - img "Mar.26 - Pickup store banner" [ref=e83]
+      - generic [ref=e97]:
+        - generic [ref=e98]:
+          - heading "Lookbook Livestream Hằng Ngày" [level=3] [ref=e100]
+          - generic [ref=e103]:
+            - generic [ref=e105]:
+              - link "Look 1" [ref=e106] [cursor=pointer]:
+                - /url: /vn/category/2581-look-1
+                - img "Look 1" [ref=e107]
+              - link "Look 1" [ref=e108] [cursor=pointer]:
+                - /url: /vn/category/2581-look-1
+            - generic [ref=e110]:
+              - link "Look 2" [ref=e111] [cursor=pointer]:
+                - /url: /vn/category/2582-look-2
+                - img "Look 2" [ref=e112]
+              - link "Look 2" [ref=e113] [cursor=pointer]:
+                - /url: /vn/category/2582-look-2
+            - generic [ref=e115]:
+              - link "Look 3" [ref=e116] [cursor=pointer]:
+                - /url: /vn/category/2583-look-3
+                - img "Look 3" [ref=e117]
+              - link "Look 3" [ref=e118] [cursor=pointer]:
+                - /url: /vn/category/2583-look-3
+            - generic [ref=e120]:
+              - link "Look 4" [ref=e121] [cursor=pointer]:
+                - /url: /vn/category/2584-look-4
+                - img "Look 4" [ref=e122]
+              - link "Look 4" [ref=e123] [cursor=pointer]:
+                - /url: /vn/category/2584-look-4
+            - generic [ref=e125]:
+              - link "Look 5" [ref=e126] [cursor=pointer]:
+                - /url: /vn/category/2585-look-5
+                - img "Look 5" [ref=e127]
+              - link "Look 5" [ref=e128] [cursor=pointer]:
+                - /url: /vn/category/2585-look-5
+            - generic [ref=e130]:
+              - link "Look 6" [ref=e131] [cursor=pointer]:
+                - /url: /vn/category/2586-look-6
+                - img "Look 6" [ref=e132]
+              - link "Look 6" [ref=e133] [cursor=pointer]:
+                - /url: /vn/category/2586-look-6
+            - generic [ref=e135]:
+              - link "Look 7" [ref=e136] [cursor=pointer]:
+                - /url: /vn/category/2589-look-7
+                - img "Look 7" [ref=e137]
+              - link "Look 7" [ref=e138] [cursor=pointer]:
+                - /url: /vn/category/2589-look-7
+            - generic [ref=e140]:
+              - link "Look 8" [ref=e141] [cursor=pointer]:
+                - /url: /vn/category/2590-look-8
+                - img "Look 8" [ref=e142]
+              - link "Look 8" [ref=e143] [cursor=pointer]:
+                - /url: /vn/category/2590-look-8
+            - generic [ref=e145]:
+              - link "Look 9" [ref=e146] [cursor=pointer]:
+                - /url: /vn/category/2591-look-9
+                - img "Look 9" [ref=e147]
+              - link "Look 9" [ref=e148] [cursor=pointer]:
+                - /url: /vn/category/2591-look-9
+            - generic [ref=e150]:
+              - link "Look 10" [ref=e151] [cursor=pointer]:
+                - /url: /vn/category/2592-look-10
+                - img "Look 10" [ref=e152]
+              - link "Look 10" [ref=e153] [cursor=pointer]:
+                - /url: /vn/category/2592-look-10
+            - generic [ref=e155]:
+              - link "Look 11" [ref=e156] [cursor=pointer]:
+                - /url: /vn/category/2593-look-11
+                - img "Look 11" [ref=e157]
+              - link "Look 11" [ref=e158] [cursor=pointer]:
+                - /url: /vn/category/2593-look-11
+            - generic [ref=e160]:
+              - link "Look 12" [ref=e161] [cursor=pointer]:
+                - /url: /vn/category/2594-look-12
+                - img "Look 12" [ref=e162]
+              - link "Look 12" [ref=e163] [cursor=pointer]:
+                - /url: /vn/category/2594-look-12
+        - generic [ref=e165]:
+          - generic [ref=e166]:
+            - heading "Sản Phẩm Mới Về" [level=3] [ref=e167]:
+              - link "Sản Phẩm Mới Về" [ref=e168] [cursor=pointer]:
+                - /url: /vn/new-arrivals
+            - link "Xem Thêm" [ref=e169] [cursor=pointer]:
+              - /url: /vn/new-arrivals
+          - generic [ref=e172]:
+            - generic [ref=e173]:
+              - generic [ref=e174]:
+                - paragraph [ref=e176]: Mới
+                - link "MUJI Bình Nước Trong Suốt Có Ống Hút" [ref=e177] [cursor=pointer]:
+                  - /url: /vn/product/muji-clear-water-bottle-w-straw-md0vcc4s
+                  - img "MUJI Bình Nước Trong Suốt Có Ống Hút" [ref=e178]
+              - generic [ref=e179]:
+                - paragraph [ref=e180]:
+                  - link "MUJI Bình Nước Trong Suốt Có Ống Hút" [ref=e181] [cursor=pointer]:
+                    - /url: /vn/product/muji-clear-water-bottle-w-straw-md0vcc4s
+                - generic [ref=e182]:
+                  - generic [ref=e184]: 244.000VND
+                  - generic "Thêm vào danh sách yêu thích" [ref=e185] [cursor=pointer]:
+                    - img [ref=e186]
+                - link "Mua Hàng" [ref=e188] [cursor=pointer]:
+                  - /url: /vn/product/muji-clear-water-bottle-w-straw-md0vcc4s
+            - generic [ref=e189]:
+              - generic [ref=e190]:
+                - paragraph [ref=e192]: Mới
+                - link "MUJI Hỗn Hợp Trái Cây Sấy Giòn - 80g" [ref=e193] [cursor=pointer]:
+                  - /url: /vn/product/muji-crispy-mixed-fruit-chips-8935382700113
+                  - img "MUJI Hỗn Hợp Trái Cây Sấy Giòn - 80g" [ref=e194]
+              - generic [ref=e195]:
+                - paragraph [ref=e196]:
+                  - link "MUJI Hỗn Hợp Trái Cây Sấy Giòn - 80g" [ref=e197] [cursor=pointer]:
+                    - /url: /vn/product/muji-crispy-mixed-fruit-chips-8935382700113
+                - generic [ref=e198]:
+                  - generic [ref=e200]: 48.000VND
+                  - generic "Thêm vào danh sách yêu thích" [ref=e201] [cursor=pointer]:
+                    - img [ref=e202]
+                - button "Mua Hàng" [ref=e204] [cursor=pointer]
+            - generic [ref=e205]:
+              - generic [ref=e206]:
+                - paragraph [ref=e208]: Mới
+                - link "MUJI Khoai Môn Sấy Giòn - 80g" [ref=e209] [cursor=pointer]:
+                  - /url: /vn/product/muji-crispy-taro-chips-8935382700106
+                  - img "MUJI Khoai Môn Sấy Giòn - 80g" [ref=e210]
+              - generic [ref=e211]:
+                - paragraph [ref=e212]:
+                  - link "MUJI Khoai Môn Sấy Giòn - 80g" [ref=e213] [cursor=pointer]:
+                    - /url: /vn/product/muji-crispy-taro-chips-8935382700106
+                - generic [ref=e214]:
+                  - generic [ref=e216]: 48.000VND
+                  - generic "Thêm vào danh sách yêu thích" [ref=e217] [cursor=pointer]:
+                    - img [ref=e218]
+                - button "Mua Hàng" [ref=e220] [cursor=pointer]
+            - generic [ref=e221]:
+              - generic [ref=e222]:
+                - paragraph [ref=e224]: Mới
+                - link "MUJI Chuối Sấy Giòn - 80g" [ref=e225] [cursor=pointer]:
+                  - /url: /vn/product/muji-crispy-banana-chips-8935382700090
+                  - img "MUJI Chuối Sấy Giòn - 80g" [ref=e226]
+              - generic [ref=e227]:
+                - paragraph [ref=e228]:
+                  - link "MUJI Chuối Sấy Giòn - 80g" [ref=e229] [cursor=pointer]:
+                    - /url: /vn/product/muji-crispy-banana-chips-8935382700090
+                - generic [ref=e230]:
+                  - generic [ref=e232]: 48.000VND
+                  - generic "Thêm vào danh sách yêu thích" [ref=e233] [cursor=pointer]:
+                    - img [ref=e234]
+                - button "Mua Hàng" [ref=e236] [cursor=pointer]
+            - generic [ref=e237]:
+              - generic [ref=e238]:
+                - paragraph [ref=e240]: Mới
+                - link "MUJI Mít Sấy Giòn - 80g" [ref=e241] [cursor=pointer]:
+                  - /url: /vn/product/muji-crispy-jackfruit-chips-8935382700083
+                  - img "MUJI Mít Sấy Giòn - 80g" [ref=e242]
+              - generic [ref=e243]:
+                - paragraph [ref=e244]:
+                  - link "MUJI Mít Sấy Giòn - 80g" [ref=e245] [cursor=pointer]:
+                    - /url: /vn/product/muji-crispy-jackfruit-chips-8935382700083
+                - generic [ref=e246]:
+                  - generic [ref=e248]: 48.000VND
+                  - generic "Thêm vào danh sách yêu thích" [ref=e249] [cursor=pointer]:
+                    - img [ref=e250]
+                - button "Mua Hàng" [ref=e252] [cursor=pointer]
+            - generic [ref=e253]:
+              - generic [ref=e254]:
+                - paragraph [ref=e256]: Mới
+                - link "MUJI Bánh Snack Ngô Phủ Sôcôla - 117g" [ref=e257] [cursor=pointer]:
+                  - /url: /vn/product/muji-chocolate-coated-corn-puffs-117g-4550584336041
+                  - img "MUJI Bánh Snack Ngô Phủ Sôcôla - 117g" [ref=e258]
+              - generic [ref=e259]:
+                - paragraph [ref=e260]:
+                  - link "MUJI Bánh Snack Ngô Phủ Sôcôla - 117g" [ref=e261] [cursor=pointer]:
+                    - /url: /vn/product/muji-chocolate-coated-corn-puffs-117g-4550584336041
+                - generic [ref=e262]:
+                  - generic [ref=e264]: 78.000VND
+                  - generic "Thêm vào danh sách yêu thích" [ref=e265] [cursor=pointer]:
+                    - img [ref=e266]
+                - button "Mua Hàng" [ref=e268] [cursor=pointer]
+            - generic [ref=e269]:
+              - generic [ref=e270]:
+                - paragraph [ref=e272]: Mới
+                - link "MUJI Kẹo Cứng Vị Trà Matcha - 45g" [ref=e273] [cursor=pointer]:
+                  - /url: /vn/product/muji-matcha-candies-45g-4550182272604
+                  - img "MUJI Kẹo Cứng Vị Trà Matcha - 45g" [ref=e274]
+              - generic [ref=e275]:
+                - paragraph [ref=e276]:
+                  - link "MUJI Kẹo Cứng Vị Trà Matcha - 45g" [ref=e277] [cursor=pointer]:
+                    - /url: /vn/product/muji-matcha-candies-45g-4550182272604
+                - generic [ref=e278]:
+                  - generic [ref=e280]: 48.000VND
+                  - generic "Thêm vào danh sách yêu thích" [ref=e281] [cursor=pointer]:
+                    - img [ref=e282]
+                - button "Mua Hàng" [ref=e284] [cursor=pointer]
+            - generic [ref=e285]:
+              - generic [ref=e286]:
+                - paragraph [ref=e288]: Mới
+                - link "MUJI Cà Ri Súp Kem Tôm Và Sò Điệp - 180g (Dùng Cho 01 Phần Ăn)" [ref=e289] [cursor=pointer]:
+                  - /url: /vn/product/muji-prawn-scallop-bisque-curry-180g-for-1-4550512478270
+                  - img "MUJI Cà Ri Súp Kem Tôm Và Sò Điệp - 180g (Dùng Cho 01 Phần Ăn)" [ref=e290]
+              - generic [ref=e291]:
+                - paragraph [ref=e292]:
+                  - link "MUJI Cà Ri Súp Kem Tôm Và Sò Điệp - 180g (Dùng Cho 01 Phần Ăn)" [ref=e293] [cursor=pointer]:
+                    - /url: /vn/product/muji-prawn-scallop-bisque-curry-180g-for-1-4550512478270
+                - generic [ref=e294]:
+                  - generic [ref=e296]: 126.000VND
+                  - generic "Thêm vào danh sách yêu thích" [ref=e297] [cursor=pointer]:
+                    - img [ref=e298]
+                - button "Mua Hàng" [ref=e300] [cursor=pointer]
+            - generic [ref=e301]:
+              - generic [ref=e302]:
+                - paragraph [ref=e304]: Mới
+                - link "MUJI Cà Ri Tôm Moilee (cà Ri Tôm Và Nước Cốt Dừa) - 180g (Dùng Cho 01 Phần Ăn)" [ref=e305] [cursor=pointer]:
+                  - /url: /vn/product/muji-prawn-moilee-prawn-coconut-curry-180g-for-1-4550344598047
+                  - img "MUJI Cà Ri Tôm Moilee (cà Ri Tôm Và Nước Cốt Dừa) - 180g (Dùng Cho 01 Phần Ăn)" [ref=e306]
+              - generic [ref=e307]:
+                - paragraph [ref=e308]:
+                  - link "MUJI Cà Ri Tôm Moilee (cà Ri Tôm Và Nước Cốt Dừa) - 180g (Dùng Cho 01 Phần Ăn)" [ref=e309] [cursor=pointer]:
+                    - /url: /vn/product/muji-prawn-moilee-prawn-coconut-curry-180g-for-1-4550344598047
+                - generic [ref=e310]:
+                  - generic [ref=e312]: 126.000VND
+                  - generic "Thêm vào danh sách yêu thích" [ref=e313] [cursor=pointer]:
+                    - img [ref=e314]
+                - button "Mua Hàng" [ref=e316] [cursor=pointer]
+            - generic [ref=e317]:
+              - generic [ref=e318]:
+                - paragraph [ref=e320]: Mới
+                - link "MUJI Cà Ri Rau Củ Và Táo - 180g (Dùng Cho 01 Phần Ăn)" [ref=e321] [cursor=pointer]:
+                  - /url: /vn/product/muji-apple-vegetable-curry-180g-for-1-4550182505863
+                  - img "MUJI Cà Ri Rau Củ Và Táo - 180g (Dùng Cho 01 Phần Ăn)" [ref=e322]
+              - generic [ref=e323]:
+                - paragraph [ref=e324]:
+                  - link "MUJI Cà Ri Rau Củ Và Táo - 180g (Dùng Cho 01 Phần Ăn)" [ref=e325] [cursor=pointer]:
+                    - /url: /vn/product/muji-apple-vegetable-curry-180g-for-1-4550182505863
+                - generic [ref=e326]:
+                  - generic [ref=e328]: 126.000VND
+                  - generic "Thêm vào danh sách yêu thích" [ref=e329] [cursor=pointer]:
+                    - img [ref=e330]
+                - button "Mua Hàng" [ref=e332] [cursor=pointer]
+            - generic [ref=e333]:
+              - generic [ref=e334]:
+                - paragraph [ref=e336]: Mới
+                - link "MUJI Ghế Ngồi Bệt L - Màu Nâu Đen" [ref=e337] [cursor=pointer]:
+                  - /url: /vn/product/muji-floor-chair-l-cotton-canvas-large-brown-4548076037156
+                  - img "MUJI Ghế Ngồi Bệt L - Màu Nâu Đen" [ref=e338]
+              - generic [ref=e339]:
+                - paragraph [ref=e340]:
+                  - link "MUJI Ghế Ngồi Bệt L - Màu Nâu Đen" [ref=e341] [cursor=pointer]:
+                    - /url: /vn/product/muji-floor-chair-l-cotton-canvas-large-brown-4548076037156
+                - generic [ref=e342]:
+                  - generic [ref=e344]: 1.668.000VND
+                  - generic "Thêm vào danh sách yêu thích" [ref=e345] [cursor=pointer]:
+                    - img [ref=e346]
+                - button "Mua Hàng" [ref=e348] [cursor=pointer]
+            - generic [ref=e349]:
+              - generic [ref=e350]:
+                - paragraph [ref=e352]: Mới
+                - link "MUJI Ghế Ngồi Bệt L - Màu Be Xám" [ref=e353] [cursor=pointer]:
+                  - /url: /vn/product/muji-floor-chair-l-cotton-canvas-large-beige-4548076037149
+                  - img "MUJI Ghế Ngồi Bệt L - Màu Be Xám" [ref=e354]
+              - generic [ref=e355]:
+                - paragraph [ref=e356]:
+                  - link "MUJI Ghế Ngồi Bệt L - Màu Be Xám" [ref=e357] [cursor=pointer]:
+                    - /url: /vn/product/muji-floor-chair-l-cotton-canvas-large-beige-4548076037149
+                - generic [ref=e358]:
+                  - generic [ref=e360]: 1.668.000VND
+                  - generic "Thêm vào danh sách yêu thích" [ref=e361] [cursor=pointer]:
+                    - img [ref=e362]
+                - button "Mua Hàng" [ref=e364] [cursor=pointer]
+          - generic [ref=e368]:
+            - generic [ref=e369]:
+              - generic [ref=e370]:
+                - paragraph [ref=e372]: Mới
+                - link "MUJI Ghế Ngồi Bệt L - Tự Nhiên" [ref=e373] [cursor=pointer]:
+                  - /url: /vn/product/muji-floor-chair-l-cotton-canvas-large-natural-4548076037002
+                  - img "MUJI Ghế Ngồi Bệt L - Tự Nhiên" [ref=e374]
+              - generic [ref=e375]:
+                - paragraph [ref=e376]:
+                  - link "MUJI Ghế Ngồi Bệt L - Tự Nhiên" [ref=e377] [cursor=pointer]:
+                    - /url: /vn/product/muji-floor-chair-l-cotton-canvas-large-natural-4548076037002
+                - generic [ref=e378]:
+                  - generic [ref=e380]: 1.668.000VND
+                  - generic "Thêm vào danh sách yêu thích" [ref=e381] [cursor=pointer]:
+                    - img [ref=e382]
+                - button "Mua Hàng" [ref=e384] [cursor=pointer]
+            - generic [ref=e385]:
+              - generic [ref=e386]:
+                - paragraph [ref=e388]: Mới
+                - link "MUJI Giá Đỡ Palette Trang Điểm" [ref=e389] [cursor=pointer]:
+                  - /url: /vn/product/muji-recycled-polypropylene-blend-makeup-box-palette-stand-4550584935138
+                  - img "MUJI Giá Đỡ Palette Trang Điểm" [ref=e390]
+              - generic [ref=e391]:
+                - paragraph [ref=e392]:
+                  - link "MUJI Giá Đỡ Palette Trang Điểm" [ref=e393] [cursor=pointer]:
+                    - /url: /vn/product/muji-recycled-polypropylene-blend-makeup-box-palette-stand-4550584935138
+                - generic [ref=e394]:
+                  - generic [ref=e396]: 68.000VND
+                  - generic "Thêm vào danh sách yêu thích" [ref=e397] [cursor=pointer]:
+                    - img [ref=e398]
+                - button "Mua Hàng" [ref=e400] [cursor=pointer]
+            - generic [ref=e401]:
+              - generic [ref=e402]:
+                - paragraph [ref=e404]: Mới
+                - link "MUJI Hộp Bút Nhựa Có Vách Ngăn - Xám Đen" [ref=e405] [cursor=pointer]:
+                  - /url: /vn/product/muji-polypropylene-pencil-case-with-detachable-divider-dark-grey-4550584663161
+                  - img "MUJI Hộp Bút Nhựa Có Vách Ngăn - Xám Đen" [ref=e406]
+              - generic [ref=e407]:
+                - paragraph [ref=e408]:
+                  - link "MUJI Hộp Bút Nhựa Có Vách Ngăn - Xám Đen" [ref=e409] [cursor=pointer]:
+                    - /url: /vn/product/muji-polypropylene-pencil-case-with-detachable-divider-dark-grey-4550584663161
+                - generic [ref=e410]:
+                  - generic [ref=e412]: 79.000VND
+                  - generic "Thêm vào danh sách yêu thích" [ref=e413] [cursor=pointer]:
+                    - img [ref=e414]
+                - button "Mua Hàng" [ref=e416] [cursor=pointer]
+            - generic [ref=e417]:
+              - generic [ref=e418]:
+                - paragraph [ref=e420]: Mới
+                - link "MUJI Cốc Bằng Thép Không Gỉ Có Tráng Men Sứ" [ref=e421] [cursor=pointer]:
+                  - /url: /vn/product/muji-stainless-steel-ceramic-coated-mug-s-4550584929977
+                  - img "MUJI Cốc Bằng Thép Không Gỉ Có Tráng Men Sứ" [ref=e422]
+              - generic [ref=e423]:
+                - paragraph [ref=e424]:
+                  - link "MUJI Cốc Bằng Thép Không Gỉ Có Tráng Men Sứ" [ref=e425] [cursor=pointer]:
+                    - /url: /vn/product/muji-stainless-steel-ceramic-coated-mug-s-4550584929977
+                - generic [ref=e426]:
+                  - generic [ref=e428]: 441.000VND
+                  - generic "Thêm vào danh sách yêu thích" [ref=e429] [cursor=pointer]:
+                    - img [ref=e430]
+                - button "Mua Hàng" [ref=e432] [cursor=pointer]
+            - generic [ref=e433]:
+              - generic [ref=e434]:
+                - paragraph [ref=e436]: Mới
+                - link "MUJI Cốc Bằng Thép Không Gỉ Có Tráng Men Sứ" [ref=e437] [cursor=pointer]:
+                  - /url: /vn/product/muji-stainless-steel-ceramic-coated-mug-l-4550584929946
+                  - img "MUJI Cốc Bằng Thép Không Gỉ Có Tráng Men Sứ" [ref=e438]
+              - generic [ref=e439]:
+                - paragraph [ref=e440]:
+                  - link "MUJI Cốc Bằng Thép Không Gỉ Có Tráng Men Sứ" [ref=e441] [cursor=pointer]:
+                    - /url: /vn/product/muji-stainless-steel-ceramic-coated-mug-l-4550584929946
+                - generic [ref=e442]:
+                  - generic [ref=e444]: 490.000VND
+                  - generic "Thêm vào danh sách yêu thích" [ref=e445] [cursor=pointer]:
+                    - img [ref=e446]
+                - button "Mua Hàng" [ref=e448] [cursor=pointer]
+            - generic [ref=e449]:
+              - generic [ref=e450]:
+                - paragraph [ref=e452]: Mới
+                - link "MUJI Cốc Bằng Thép Không Gỉ Có Tráng Men Sứ" [ref=e453] [cursor=pointer]:
+                  - /url: /vn/product/muji-stainless-steel-ceramic-coated-mug-s-4550584929915
+                  - img "MUJI Cốc Bằng Thép Không Gỉ Có Tráng Men Sứ" [ref=e454]
+              - generic [ref=e455]:
+                - paragraph [ref=e456]:
+                  - link "MUJI Cốc Bằng Thép Không Gỉ Có Tráng Men Sứ" [ref=e457] [cursor=pointer]:
+                    - /url: /vn/product/muji-stainless-steel-ceramic-coated-mug-s-4550584929915
+                - generic [ref=e458]:
+                  - generic [ref=e460]: 441.000VND
+                  - generic "Thêm vào danh sách yêu thích" [ref=e461] [cursor=pointer]:
+                    - img [ref=e462]
+                - button "Mua Hàng" [ref=e464] [cursor=pointer]
+            - generic [ref=e465]:
+              - generic [ref=e466]:
+                - paragraph [ref=e468]: Mới
+                - link "MUJI Cốc Bằng Thép Không Gỉ Có Tráng Men Sứ" [ref=e469] [cursor=pointer]:
+                  - /url: /vn/product/muji-stainless-steel-ceramic-coated-mug-l-4550584929885
+                  - img "MUJI Cốc Bằng Thép Không Gỉ Có Tráng Men Sứ" [ref=e470]
+              - generic [ref=e471]:
+                - paragraph [ref=e472]:
+                  - link "MUJI Cốc Bằng Thép Không Gỉ Có Tráng Men Sứ" [ref=e473] [cursor=pointer]:
+                    - /url: /vn/product/muji-stainless-steel-ceramic-coated-mug-l-4550584929885
+                - generic [ref=e474]:
+                  - generic [ref=e476]: 490.000VND
+                  - generic "Thêm vào danh sách yêu thích" [ref=e477] [cursor=pointer]:
+                    - img [ref=e478]
+                - button "Mua Hàng" [ref=e480] [cursor=pointer]
+            - generic [ref=e481]:
+              - generic [ref=e482]:
+                - paragraph [ref=e484]: Mới
+                - link "MUJI Cốc Bằng Thép Không Gỉ Có Tráng Men Sứ" [ref=e485] [cursor=pointer]:
+                  - /url: /vn/product/muji-stainless-steel-ceramic-coated-mug-s-4550584929854
+                  - img "MUJI Cốc Bằng Thép Không Gỉ Có Tráng Men Sứ" [ref=e486]
+              - generic [ref=e487]:
+                - paragraph [ref=e488]:
+                  - link "MUJI Cốc Bằng Thép Không Gỉ Có Tráng Men Sứ" [ref=e489] [cursor=pointer]:
+                    - /url: /vn/product/muji-stainless-steel-ceramic-coated-mug-s-4550584929854
+                - generic [ref=e490]:
+                  - generic [ref=e492]: 441.000VND
+                  - generic "Thêm vào danh sách yêu thích" [ref=e493] [cursor=pointer]:
+                    - img [ref=e494]
+                - button "Mua Hàng" [ref=e496] [cursor=pointer]
+            - generic [ref=e497]:
+              - generic [ref=e498]:
+                - paragraph [ref=e500]: Mới
+                - link "MUJI Chân Váy Nữ Vải Denim" [ref=e501] [cursor=pointer]:
+                  - /url: /vn/product/muji-w-s-washed-denim-easy-skirt-be21ta6a
+                  - img "MUJI Chân Váy Nữ Vải Denim" [ref=e502]
+              - generic [ref=e503]:
+                - paragraph [ref=e504]:
+                  - link "MUJI Chân Váy Nữ Vải Denim" [ref=e505] [cursor=pointer]:
+                    - /url: /vn/product/muji-w-s-washed-denim-easy-skirt-be21ta6a
+                - generic [ref=e506]:
+                  - generic [ref=e508]: 589.000VND
+                  - generic "Thêm vào danh sách yêu thích" [ref=e509] [cursor=pointer]:
+                    - img [ref=e510]
+                - link "Mua Hàng" [ref=e512] [cursor=pointer]:
+                  - /url: /vn/product/muji-w-s-washed-denim-easy-skirt-be21ta6a
+        - generic [ref=e514]:
+          - generic [ref=e515]:
+            - heading "Sản phẩm bán chạy" [level=3] [ref=e516]:
+              - link "Sản phẩm bán chạy" [ref=e517] [cursor=pointer]:
+                - /url: /vn/bestseller
+            - link "Xem Thêm" [ref=e518] [cursor=pointer]:
+              - /url: /vn/bestseller
+          - generic [ref=e521]:
+            - generic [ref=e522]:
+              - link "Bút Bi Bấm 0.5mm - Xanh Dương MUJI" [ref=e524] [cursor=pointer]:
+                - /url: /vn/product/smooth-gel-ink-ballpoint-pen-knock-type-0-5-blue-4550002794132
+                - img "Bút Bi Bấm 0.5mm - Xanh Dương MUJI" [ref=e525]
+              - generic [ref=e526]:
+                - paragraph [ref=e527]:
+                  - link "Bút Bi Bấm 0.5mm - Xanh Dương MUJI" [ref=e528] [cursor=pointer]:
+                    - /url: /vn/product/smooth-gel-ink-ballpoint-pen-knock-type-0-5-blue-4550002794132
+                - generic [ref=e529]:
+                  - generic [ref=e531]: 28.000VND
+                  - generic "Thêm vào danh sách yêu thích" [ref=e532] [cursor=pointer]:
+                    - img [ref=e533]
+                - button "Mua Hàng" [ref=e535] [cursor=pointer]
+            - generic [ref=e536]:
+              - link "Ruột Bút Mực Smooth Gel 0.5mm - Xanh Dương MUJI" [ref=e538] [cursor=pointer]:
+                - /url: /vn/product/refill-smooth-gel-ink-ballpoint-pen-0-5-blue-4550002822897
+                - img "Ruột Bút Mực Smooth Gel 0.5mm - Xanh Dương MUJI" [ref=e539]
+              - generic [ref=e540]:
+                - paragraph [ref=e541]:
+                  - link "Ruột Bút Mực Smooth Gel 0.5mm - Xanh Dương MUJI" [ref=e542] [cursor=pointer]:
+                    - /url: /vn/product/refill-smooth-gel-ink-ballpoint-pen-0-5-blue-4550002822897
+                - generic [ref=e543]:
+                  - generic [ref=e545]: 25.000VND
+                  - generic "Thêm vào danh sách yêu thích" [ref=e546] [cursor=pointer]:
+                    - img [ref=e547]
+                - button "Mua Hàng" [ref=e549] [cursor=pointer]
+            - generic [ref=e550]:
+              - link "Bút Bi Polycarbonate 0.7mm - Xanh Dương MUJI" [ref=e552] [cursor=pointer]:
+                - /url: /vn/product/polycarbonate-ballpoint-pen-with-rubber-grip-4550002186579
+                - img "Bút Bi Polycarbonate 0.7mm - Xanh Dương MUJI" [ref=e553]
+              - generic [ref=e554]:
+                - paragraph [ref=e555]:
+                  - link "Bút Bi Polycarbonate 0.7mm - Xanh Dương MUJI" [ref=e556] [cursor=pointer]:
+                    - /url: /vn/product/polycarbonate-ballpoint-pen-with-rubber-grip-4550002186579
+                - generic [ref=e557]:
+                  - generic [ref=e559]: 28.000VND
+                  - generic "Thêm vào danh sách yêu thích" [ref=e560] [cursor=pointer]:
+                    - img [ref=e561]
+                - button "Mua Hàng" [ref=e563] [cursor=pointer]
+            - generic [ref=e564]:
+              - link "Bút Bi Bấm 0.5mm - Đen MUJI" [ref=e566] [cursor=pointer]:
+                - /url: /vn/product/smooth-gel-ink-ballpoint-pen-knock-type-0-5-black-4550002794118
+                - img "Bút Bi Bấm 0.5mm - Đen MUJI" [ref=e567]
+              - generic [ref=e568]:
+                - paragraph [ref=e569]:
+                  - link "Bút Bi Bấm 0.5mm - Đen MUJI" [ref=e570] [cursor=pointer]:
+                    - /url: /vn/product/smooth-gel-ink-ballpoint-pen-knock-type-0-5-black-4550002794118
+                - generic [ref=e571]:
+                  - generic [ref=e573]: 28.000VND
+                  - generic "Thêm vào danh sách yêu thích" [ref=e574] [cursor=pointer]:
+                    - img [ref=e575]
+                - button "Mua Hàng" [ref=e577] [cursor=pointer]
+            - generic [ref=e578]:
+              - link "Nến Thơm Mùi Tuyết Tùng" [ref=e580] [cursor=pointer]:
+                - /url: /vn/product/fragrance-candle-cedar-4547315274994
+                - img "Nến Thơm Mùi Tuyết Tùng" [ref=e581]
+              - generic [ref=e582]:
+                - paragraph [ref=e583]:
+                  - link "Nến Thơm Mùi Tuyết Tùng" [ref=e584] [cursor=pointer]:
+                    - /url: /vn/product/fragrance-candle-cedar-4547315274994
+                - generic [ref=e585]:
+                  - generic [ref=e587]: 97.000VND
+                  - generic "Thêm vào danh sách yêu thích" [ref=e588] [cursor=pointer]:
+                    - img [ref=e589]
+                - button "Mua Hàng" [ref=e591] [cursor=pointer]
+            - generic [ref=e592]:
+              - link "MUJI Cuộn Lăn Bụi Thay Thế - Xé Chéo (1 Cuộn)" [ref=e594] [cursor=pointer]:
+                - /url: /vn/product/carpet-cleaner-refill-angled-cut-4550344131954
+                - img "MUJI Cuộn Lăn Bụi Thay Thế - Xé Chéo (1 Cuộn)" [ref=e595]
+              - generic [ref=e596]:
+                - paragraph [ref=e597]:
+                  - link "MUJI Cuộn Lăn Bụi Thay Thế - Xé Chéo (1 Cuộn)" [ref=e598] [cursor=pointer]:
+                    - /url: /vn/product/carpet-cleaner-refill-angled-cut-4550344131954
+                - generic [ref=e599]:
+                  - generic [ref=e601]: 38.000VND
+                  - generic "Thêm vào danh sách yêu thích" [ref=e602] [cursor=pointer]:
+                    - img [ref=e603]
+                - button "Mua Hàng" [ref=e605] [cursor=pointer]
+            - generic [ref=e606]:
+              - link "Đồng Hồ Điện Tử - Âm Báo Thức Lớn" [ref=e608] [cursor=pointer]:
+                - /url: /vn/product/digital-clock-with-loud-alarm-4550512851042
+                - img "Đồng Hồ Điện Tử - Âm Báo Thức Lớn" [ref=e609]
+              - generic [ref=e610]:
+                - paragraph [ref=e611]:
+                  - link "Đồng Hồ Điện Tử - Âm Báo Thức Lớn" [ref=e612] [cursor=pointer]:
+                    - /url: /vn/product/digital-clock-with-loud-alarm-4550512851042
+                - generic [ref=e613]:
+                  - generic [ref=e615]: 490.000VND
+                  - generic "Thêm vào danh sách yêu thích" [ref=e616] [cursor=pointer]:
+                    - img [ref=e617]
+                - button "Mua Hàng" [ref=e619] [cursor=pointer]
+            - generic [ref=e620]:
+              - link "Ruột Bút Mực Smooth Gel 0.5mm - Đen MUJI" [ref=e622] [cursor=pointer]:
+                - /url: /vn/product/refill-smooth-gel-ink-ballpoint-pen-0-5-black-4550002822873
+                - img "Ruột Bút Mực Smooth Gel 0.5mm - Đen MUJI" [ref=e623]
+              - generic [ref=e624]:
+                - paragraph [ref=e625]:
+                  - link "Ruột Bút Mực Smooth Gel 0.5mm - Đen MUJI" [ref=e626] [cursor=pointer]:
+                    - /url: /vn/product/refill-smooth-gel-ink-ballpoint-pen-0-5-black-4550002822873
+                - generic [ref=e627]:
+                  - generic [ref=e629]: 25.000VND
+                  - generic "Thêm vào danh sách yêu thích" [ref=e630] [cursor=pointer]:
+                    - img [ref=e631]
+                - button "Mua Hàng" [ref=e633] [cursor=pointer]
+            - generic [ref=e634]:
+              - link "MUJI Túi My Bag A4 Vải Sợi Đay - Tự Nhiên" [ref=e636] [cursor=pointer]:
+                - /url: /vn/product/jute-my-bag-a4-4550583003463
+                - img "MUJI Túi My Bag A4 Vải Sợi Đay - Tự Nhiên" [ref=e637]
+              - generic [ref=e638]:
+                - paragraph [ref=e639]:
+                  - link "MUJI Túi My Bag A4 Vải Sợi Đay - Tự Nhiên" [ref=e640] [cursor=pointer]:
+                    - /url: /vn/product/jute-my-bag-a4-4550583003463
+                - generic [ref=e641]:
+                  - generic [ref=e643]: 68.000VND
+                  - generic "Thêm vào danh sách yêu thích" [ref=e644] [cursor=pointer]:
+                    - img [ref=e645]
+                - button "Mua Hàng" [ref=e647] [cursor=pointer]
+            - generic [ref=e648]:
+              - link "MUJI Nến Thơm Mùi Cây Xô Thơm" [ref=e650] [cursor=pointer]:
+                - /url: /vn/product/fragrance-candle-clary-sage-4547315275007
+                - img "MUJI Nến Thơm Mùi Cây Xô Thơm" [ref=e651]
+              - generic [ref=e652]:
+                - paragraph [ref=e653]:
+                  - link "MUJI Nến Thơm Mùi Cây Xô Thơm" [ref=e654] [cursor=pointer]:
+                    - /url: /vn/product/fragrance-candle-clary-sage-4547315275007
+                - generic [ref=e655]:
+                  - generic [ref=e657]: 97.000VND
+                  - generic "Thêm vào danh sách yêu thích" [ref=e658] [cursor=pointer]:
+                    - img [ref=e659]
+                - button "Mua Hàng" [ref=e661] [cursor=pointer]
+            - generic [ref=e662]:
+              - link "MUJI Túi Đựng Đồ Du Lịch Hai Ngăn - L - Đen" [ref=e664] [cursor=pointer]:
+                - /url: /vn/product/muji-foldable-case-2-layers-l-4550584224904
+                - img "MUJI Túi Đựng Đồ Du Lịch Hai Ngăn - L - Đen" [ref=e665]
+              - generic [ref=e666]:
+                - paragraph [ref=e667]:
+                  - link "MUJI Túi Đựng Đồ Du Lịch Hai Ngăn - L - Đen" [ref=e668] [cursor=pointer]:
+                    - /url: /vn/product/muji-foldable-case-2-layers-l-4550584224904
+                - generic [ref=e669]:
+                  - generic [ref=e671]: 99.000VND
+                  - generic "Thêm vào danh sách yêu thích" [ref=e672] [cursor=pointer]:
+                    - img [ref=e673]
+                - button "Mua Hàng" [ref=e675] [cursor=pointer]
+            - generic [ref=e676]:
+              - link "Bút Bi Bấm 0.5mm - Xanh Đen MUJI" [ref=e678] [cursor=pointer]:
+                - /url: /vn/product/smooth-gel-ink-ballpoint-pen-knock-type-0-5-blue-black-4550002794200
+                - img "Bút Bi Bấm 0.5mm - Xanh Đen MUJI" [ref=e679]
+              - generic [ref=e680]:
+                - paragraph [ref=e681]:
+                  - link "Bút Bi Bấm 0.5mm - Xanh Đen MUJI" [ref=e682] [cursor=pointer]:
+                    - /url: /vn/product/smooth-gel-ink-ballpoint-pen-knock-type-0-5-blue-black-4550002794200
+                - generic [ref=e683]:
+                  - generic [ref=e685]: 28.000VND
+                  - generic "Thêm vào danh sách yêu thích" [ref=e686] [cursor=pointer]:
+                    - img [ref=e687]
+                - button "Mua Hàng" [ref=e689] [cursor=pointer]
+          - generic [ref=e693]:
+            - generic [ref=e694]:
+              - link "Túi My Bag A3 Vải Sợi Đay" [ref=e696] [cursor=pointer]:
+                - /url: /vn/product/jute-my-bag-a3-4550583003487
+                - img "Túi My Bag A3 Vải Sợi Đay" [ref=e697]
+              - generic [ref=e698]:
+                - paragraph [ref=e699]:
+                  - link "Túi My Bag A3 Vải Sợi Đay" [ref=e700] [cursor=pointer]:
+                    - /url: /vn/product/jute-my-bag-a3-4550583003487
+                - generic [ref=e701]:
+                  - generic [ref=e703]: 78.000VND
+                  - generic "Thêm vào danh sách yêu thích" [ref=e704] [cursor=pointer]:
+                    - img [ref=e705]
+                - button "Mua Hàng" [ref=e707] [cursor=pointer]
+            - generic [ref=e708]:
+              - link "Ruột Bút Mực Gel 0.5mm - Xanh Dương MUJI" [ref=e710] [cursor=pointer]:
+                - /url: /vn/product/refill-gel-ink-ballpoint-pen-0-5-blue-4550002814458
+                - img "Ruột Bút Mực Gel 0.5mm - Xanh Dương MUJI" [ref=e711]
+              - generic [ref=e712]:
+                - paragraph [ref=e713]:
+                  - link "Ruột Bút Mực Gel 0.5mm - Xanh Dương MUJI" [ref=e714] [cursor=pointer]:
+                    - /url: /vn/product/refill-gel-ink-ballpoint-pen-0-5-blue-4550002814458
+                - generic [ref=e715]:
+                  - generic [ref=e717]: 25.000VND
+                  - generic "Thêm vào danh sách yêu thích" [ref=e718] [cursor=pointer]:
+                    - img [ref=e719]
+                - button "Mua Hàng" [ref=e721] [cursor=pointer]
+            - generic [ref=e722]:
+              - link "MUJI Hộp Lưu Trữ Nhựa (Nhiều size)" [ref=e724] [cursor=pointer]:
+                - /url: /vn/product/muji-pp-storage-box-stobox1
+                - img "MUJI Hộp Lưu Trữ Nhựa (Nhiều size)" [ref=e725]
+              - generic [ref=e726]:
+                - paragraph [ref=e727]:
+                  - link "MUJI Hộp Lưu Trữ Nhựa (Nhiều size)" [ref=e728] [cursor=pointer]:
+                    - /url: /vn/product/muji-pp-storage-box-stobox1
+                - generic [ref=e729]:
+                  - generic [ref=e731]: 422.000VND
+                  - generic "Thêm vào danh sách yêu thích" [ref=e732] [cursor=pointer]:
+                    - img [ref=e733]
+                - link "Mua Hàng" [ref=e735] [cursor=pointer]:
+                  - /url: /vn/product/muji-pp-storage-box-stobox1
+            - generic [ref=e736]:
+              - link "[ĐỘC QUYỀN ONLINE] MUJI Dây Đeo Điện Thoại - Màu Ngẫu Nhiên" [ref=e738] [cursor=pointer]:
+                - /url: /vn/product/muji-day-deo-dien-thoai-8936215242053
+                - img "[ĐỘC QUYỀN ONLINE] MUJI Dây Đeo Điện Thoại - Màu Ngẫu Nhiên" [ref=e739]
+              - generic [ref=e740]:
+                - paragraph [ref=e741]:
+                  - link "[ĐỘC QUYỀN ONLINE] MUJI Dây Đeo Điện Thoại - Màu Ngẫu Nhiên" [ref=e742] [cursor=pointer]:
+                    - /url: /vn/product/muji-day-deo-dien-thoai-8936215242053
+                - generic [ref=e743]:
+                  - generic [ref=e745]: 99.000VND
+                  - generic "Thêm vào danh sách yêu thích" [ref=e746] [cursor=pointer]:
+                    - img [ref=e747]
+                - button "Mua Hàng" [ref=e749] [cursor=pointer]
+            - generic [ref=e750]:
+              - link "Túi My Bag A4 (Phở) / Green Màu Xanh Lá" [ref=e752] [cursor=pointer]:
+                - /url: /vn/product/jute-my-bag-a4-green-pho-vnm0546
+                - img "Túi My Bag A4 (Phở) / Green Màu Xanh Lá" [ref=e753]
+              - generic [ref=e754]:
+                - paragraph [ref=e755]:
+                  - link "Túi My Bag A4 (Phở) / Green Màu Xanh Lá" [ref=e756] [cursor=pointer]:
+                    - /url: /vn/product/jute-my-bag-a4-green-pho-vnm0546
+                - generic [ref=e757]:
+                  - generic [ref=e759]: 78.000VND
+                  - generic "Thêm vào danh sách yêu thích" [ref=e760] [cursor=pointer]:
+                    - img [ref=e761]
+                - link "Mua Hàng" [ref=e763] [cursor=pointer]:
+                  - /url: /vn/product/jute-my-bag-a4-green-pho-vnm0546
+            - generic [ref=e764]:
+              - link "Túi My Bag A4 (Phở)" [ref=e766] [cursor=pointer]:
+                - /url: /vn/product/jute-my-bag-a4-xe-may-vnm0494
+                - img "Túi My Bag A4 (Phở)" [ref=e767]
+              - generic [ref=e768]:
+                - paragraph [ref=e769]:
+                  - link "Túi My Bag A4 (Phở)" [ref=e770] [cursor=pointer]:
+                    - /url: /vn/product/jute-my-bag-a4-xe-may-vnm0494
+                - generic [ref=e771]:
+                  - generic [ref=e773]: 78.000VND
+                  - generic "Thêm vào danh sách yêu thích" [ref=e774] [cursor=pointer]:
+                    - img [ref=e775]
+                - link "Mua Hàng" [ref=e777] [cursor=pointer]:
+                  - /url: /vn/product/jute-my-bag-a4-xe-may-vnm0494
+            - generic [ref=e778]:
+              - link "MUJI Gối Ôm Polyester Tái Chế" [ref=e780] [cursor=pointer]:
+                - /url: /vn/product/recycled-polyester-body-pillow-4550583715533
+                - img "MUJI Gối Ôm Polyester Tái Chế" [ref=e781]
+              - generic [ref=e782]:
+                - paragraph [ref=e783]:
+                  - link "MUJI Gối Ôm Polyester Tái Chế" [ref=e784] [cursor=pointer]:
+                    - /url: /vn/product/recycled-polyester-body-pillow-4550583715533
+                - generic [ref=e785]:
+                  - generic [ref=e787]: 392.000VND
+                  - generic "Thêm vào danh sách yêu thích" [ref=e788] [cursor=pointer]:
+                    - img [ref=e789]
+                - button "Mua Hàng" [ref=e791] [cursor=pointer]
+            - generic [ref=e792]:
+              - link "Ruột Bút Mực Gel 0.5mm - Đen MUJI" [ref=e794] [cursor=pointer]:
+                - /url: /vn/product/refill-gel-ink-ballpoint-pen-0-5-black-4550002814434
+                - img "Ruột Bút Mực Gel 0.5mm - Đen MUJI" [ref=e795]
+              - generic [ref=e796]:
+                - paragraph [ref=e797]:
+                  - link "Ruột Bút Mực Gel 0.5mm - Đen MUJI" [ref=e798] [cursor=pointer]:
+                    - /url: /vn/product/refill-gel-ink-ballpoint-pen-0-5-black-4550002814434
+                - generic [ref=e799]:
+                  - generic [ref=e801]: 25.000VND
+                  - generic "Thêm vào danh sách yêu thích" [ref=e802] [cursor=pointer]:
+                    - img [ref=e803]
+                - button "Mua Hàng" [ref=e805] [cursor=pointer]
+            - generic [ref=e806]:
+              - link "Bút Bi Polycarbonate 0.7mm - Đen MUJI" [ref=e808] [cursor=pointer]:
+                - /url: /vn/product/polycarbonate-ballpoint-pen-with-rubber-grip-4548718444434
+                - img "Bút Bi Polycarbonate 0.7mm - Đen MUJI" [ref=e809]
+              - generic [ref=e810]:
+                - paragraph [ref=e811]:
+                  - link "Bút Bi Polycarbonate 0.7mm - Đen MUJI" [ref=e812] [cursor=pointer]:
+                    - /url: /vn/product/polycarbonate-ballpoint-pen-with-rubber-grip-4548718444434
+                - generic [ref=e813]:
+                  - generic [ref=e815]: 28.000VND
+                  - generic "Thêm vào danh sách yêu thích" [ref=e816] [cursor=pointer]:
+                    - img [ref=e817]
+                - button "Mua Hàng" [ref=e819] [cursor=pointer]
+            - generic [ref=e820]:
+              - link "MUJI Gối/Vỏ Gối Ôm Polyester Tái Chế" [ref=e822] [cursor=pointer]:
+                - /url: /vn/product/muji-recycled-polyester-body-pillow-jb02oj3a
+                - img "MUJI Gối/Vỏ Gối Ôm Polyester Tái Chế" [ref=e823]
+              - generic [ref=e824]:
+                - paragraph [ref=e825]:
+                  - link "MUJI Gối/Vỏ Gối Ôm Polyester Tái Chế" [ref=e826] [cursor=pointer]:
+                    - /url: /vn/product/muji-recycled-polyester-body-pillow-jb02oj3a
+                - generic [ref=e827]:
+                  - generic [ref=e829]: 244.000VND
+                  - generic "Thêm vào danh sách yêu thích" [ref=e830] [cursor=pointer]:
+                    - img [ref=e831]
+                - link "Mua Hàng" [ref=e833] [cursor=pointer]:
+                  - /url: /vn/product/muji-recycled-polyester-body-pillow-jb02oj3a
+            - generic [ref=e834]:
+              - link "Bút Bi Bấm 0.5mm - Đỏ MUJI" [ref=e836] [cursor=pointer]:
+                - /url: /vn/product/smooth-gel-ink-ballpoint-pen-knock-type-0-5-red-4550002794149
+                - img "Bút Bi Bấm 0.5mm - Đỏ MUJI" [ref=e837]
+              - generic [ref=e838]:
+                - paragraph [ref=e839]:
+                  - link "Bút Bi Bấm 0.5mm - Đỏ MUJI" [ref=e840] [cursor=pointer]:
+                    - /url: /vn/product/smooth-gel-ink-ballpoint-pen-knock-type-0-5-red-4550002794149
+                - generic [ref=e841]:
+                  - generic [ref=e843]: 28.000VND
+                  - generic "Thêm vào danh sách yêu thích" [ref=e844] [cursor=pointer]:
+                    - img [ref=e845]
+                - button "Mua Hàng" [ref=e847] [cursor=pointer]
+      - generic [ref=e849]:
+        - generic [ref=e852]:
+          - img "Cool Comfort" [ref=e854]
+          - generic [ref=e855]:
+            - paragraph [ref=e856]: Tận hưởng trọn vẹn hơn những ngày hè nắng đẹp với sản phẩm mới từ MUJI ☀️
+            - paragraph [ref=e857]:
+              - link "Khám phá thêm tại đây!" [ref=e859] [cursor=pointer]:
+                - /url: https://www.muji.com.vn/vn/search?q=%C3%A1o%20cool%20touch
+        - generic [ref=e860]:
+          - generic [ref=e861]:
+            - generic [ref=e862]:
+              - heading "Quần áo" [level=3] [ref=e863]
+              - generic [ref=e866]:
+                - generic [ref=e868]:
+                  - link "Trang Phục Nữ" [ref=e870] [cursor=pointer]:
+                    - /url: /vn/category/13-ladies-wear
+                    - img "Trang Phục Nữ" [ref=e871]
+                  - link "Trang Phục Nữ" [ref=e872] [cursor=pointer]:
+                    - /url: /vn/category/13-ladies-wear
+                - generic [ref=e874]:
+                  - link "Trang Phục Nam" [ref=e876] [cursor=pointer]:
+                    - /url: /vn/category/7-mens-wear
+                    - img "Trang Phục Nam" [ref=e877]
+                  - link "Trang Phục Nam" [ref=e878] [cursor=pointer]:
+                    - /url: /vn/category/7-mens-wear
+                - generic [ref=e880]:
+                  - link "MUJI Labo" [ref=e882] [cursor=pointer]:
+                    - /url: /vn/category/232-muji-labo
+                    - img "MUJI Labo" [ref=e883]
+                  - link "MUJI Labo" [ref=e884] [cursor=pointer]:
+                    - /url: /vn/category/232-muji-labo
+                - generic [ref=e886]:
+                  - link "Trang Phục Trẻ Em" [ref=e888] [cursor=pointer]:
+                    - /url: /vn/category/21-childrens-wear
+                    - img "Trang Phục Trẻ Em" [ref=e889]
+                  - link "Trang Phục Trẻ Em" [ref=e890] [cursor=pointer]:
+                    - /url: /vn/category/21-childrens-wear
+                - generic [ref=e892]:
+                  - link "Túi" [ref=e894] [cursor=pointer]:
+                    - /url: /vn/category/30-bags
+                    - img "Túi" [ref=e895]
+                  - link "Túi" [ref=e896] [cursor=pointer]:
+                    - /url: /vn/category/30-bags
+                - generic [ref=e898]:
+                  - link "Giày & Dép" [ref=e900] [cursor=pointer]:
+                    - /url: /vn/category/38-shoes-sandals
+                    - img "Giày & Dép" [ref=e901]
+                  - link "Giày & Dép" [ref=e902] [cursor=pointer]:
+                    - /url: /vn/category/38-shoes-sandals
+                - generic [ref=e904]:
+                  - link "Phụ Kiện" [ref=e906] [cursor=pointer]:
+                    - /url: /vn/category/24-accessories
+                    - img "Phụ Kiện" [ref=e907]
+                  - link "Phụ Kiện" [ref=e908] [cursor=pointer]:
+                    - /url: /vn/category/24-accessories
+                - generic [ref=e910]:
+                  - link "Bộ Sưu Tập 2026" [ref=e912] [cursor=pointer]:
+                    - /url: /vn/category/1352-linen-collection-2026
+                    - img "Bộ Sưu Tập 2026" [ref=e913]
+                  - link "Bộ Sưu Tập 2026" [ref=e914] [cursor=pointer]:
+                    - /url: /vn/category/1352-linen-collection-2026
+                - generic [ref=e916]:
+                  - link "Daily Livestream Lookbook" [ref=e918] [cursor=pointer]:
+                    - /url: /vn/category/2580-daily-livestream-look
+                    - img "Daily Livestream Lookbook" [ref=e919]
+                  - link "Daily Livestream Lookbook" [ref=e920] [cursor=pointer]:
+                    - /url: /vn/category/2580-daily-livestream-look
+            - generic [ref=e922]:
+              - generic [ref=e923]:
+                - heading "Sản phẩm nổi bật" [level=4] [ref=e924]
+                - link "Xem Thêm" [ref=e925] [cursor=pointer]:
+                  - /url: /vn/category/6-clothing
+              - generic [ref=e928]:
+                - generic [ref=e929]:
+                  - generic [ref=e930]:
+                    - paragraph [ref=e932]: Mới
+                    - link "MUJI Chân Váy Nữ Vải Denim" [ref=e933] [cursor=pointer]:
+                      - /url: /vn/product/muji-w-s-washed-denim-easy-skirt-be21ta6a
+                      - img "MUJI Chân Váy Nữ Vải Denim" [ref=e934]
+                  - generic [ref=e935]:
+                    - paragraph [ref=e936]:
+                      - link "MUJI Chân Váy Nữ Vải Denim" [ref=e937] [cursor=pointer]:
+                        - /url: /vn/product/muji-w-s-washed-denim-easy-skirt-be21ta6a
+                    - generic [ref=e938]:
+                      - generic [ref=e940]: 589.000VND
+                      - generic "Thêm vào danh sách yêu thích" [ref=e941] [cursor=pointer]:
+                        - img [ref=e942]
+                    - link "Mua Hàng" [ref=e944] [cursor=pointer]:
+                      - /url: /vn/product/muji-w-s-washed-denim-easy-skirt-be21ta6a
+                - generic [ref=e945]:
+                  - generic [ref=e946]:
+                    - paragraph [ref=e948]: Mới
+                    - link "MUJI Chân Váy Nữ Vải Cotton" [ref=e949] [cursor=pointer]:
+                      - /url: /vn/product/muji-w-s-washed-cotton-easy-skirt-be20va6a
+                      - img "MUJI Chân Váy Nữ Vải Cotton" [ref=e950]
+                  - generic [ref=e951]:
+                    - paragraph [ref=e952]:
+                      - link "MUJI Chân Váy Nữ Vải Cotton" [ref=e953] [cursor=pointer]:
+                        - /url: /vn/product/muji-w-s-washed-cotton-easy-skirt-be20va6a
+                    - generic [ref=e954]:
+                      - generic [ref=e956]: 589.000VND
+                      - generic "Thêm vào danh sách yêu thích" [ref=e957] [cursor=pointer]:
+                        - img [ref=e958]
+                    - link "Mua Hàng" [ref=e960] [cursor=pointer]:
+                      - /url: /vn/product/muji-w-s-washed-cotton-easy-skirt-be20va6a
+                - generic [ref=e961]:
+                  - generic [ref=e962]:
+                    - paragraph [ref=e964]: Mới
+                    - link "MUJI Áo Thun Nữ Vải Jersey Cổ Tròn Tay Dài" [ref=e965] [cursor=pointer]:
+                      - /url: /vn/product/muji-w-s-jersey-crew-neck-l-slv-t-shirt-bb2x6a6a
+                      - img "MUJI Áo Thun Nữ Vải Jersey Cổ Tròn Tay Dài" [ref=e966]
+                  - generic [ref=e967]:
+                    - paragraph [ref=e968]:
+                      - link "MUJI Áo Thun Nữ Vải Jersey Cổ Tròn Tay Dài" [ref=e969] [cursor=pointer]:
+                        - /url: /vn/product/muji-w-s-jersey-crew-neck-l-slv-t-shirt-bb2x6a6a
+                    - generic [ref=e970]:
+                      - generic [ref=e972]: 392.000VND
+                      - generic "Thêm vào danh sách yêu thích" [ref=e973] [cursor=pointer]:
+                        - img [ref=e974]
+                    - link "Mua Hàng" [ref=e976] [cursor=pointer]:
+                      - /url: /vn/product/muji-w-s-jersey-crew-neck-l-slv-t-shirt-bb2x6a6a
+                - generic [ref=e977]:
+                  - generic [ref=e978]:
+                    - paragraph [ref=e980]: Mới
+                    - link "MUJI Áo Thun Nữ Vải Cool Touch Chống Mồ Hôi Tay Ngắn" [ref=e981] [cursor=pointer]:
+                      - /url: /vn/product/muji-w-s-cool-touch-anti-sweat-stain-s-slv-t-shirt-asean-bb2wta6a
+                      - img "MUJI Áo Thun Nữ Vải Cool Touch Chống Mồ Hôi Tay Ngắn" [ref=e982]
+                  - generic [ref=e983]:
+                    - paragraph [ref=e984]:
+                      - link "MUJI Áo Thun Nữ Vải Cool Touch Chống Mồ Hôi Tay Ngắn" [ref=e985] [cursor=pointer]:
+                        - /url: /vn/product/muji-w-s-cool-touch-anti-sweat-stain-s-slv-t-shirt-asean-bb2wta6a
+                    - generic [ref=e986]:
+                      - generic [ref=e988]: 490.000VND
+                      - generic "Thêm vào danh sách yêu thích" [ref=e989] [cursor=pointer]:
+                        - img [ref=e990]
+                    - link "Mua Hàng" [ref=e992] [cursor=pointer]:
+                      - /url: /vn/product/muji-w-s-cool-touch-anti-sweat-stain-s-slv-t-shirt-asean-bb2wta6a
+                - generic [ref=e993]:
+                  - generic [ref=e994]:
+                    - paragraph [ref=e996]: Mới
+                    - link "MUJI Chân Váy Nữ Vải Jersey Lyocell" [ref=e997] [cursor=pointer]:
+                      - /url: /vn/product/muji-w-s-lyocell-blended-jersey-gather-skirt-bb2w6a6a
+                      - img "MUJI Chân Váy Nữ Vải Jersey Lyocell" [ref=e998]
+                  - generic [ref=e999]:
+                    - paragraph [ref=e1000]:
+                      - link "MUJI Chân Váy Nữ Vải Jersey Lyocell" [ref=e1001] [cursor=pointer]:
+                        - /url: /vn/product/muji-w-s-lyocell-blended-jersey-gather-skirt-bb2w6a6a
+                    - generic [ref=e1002]:
+                      - generic [ref=e1004]: 785.000VND
+                      - generic "Thêm vào danh sách yêu thích" [ref=e1005] [cursor=pointer]:
+                        - img [ref=e1006]
+                    - link "Mua Hàng" [ref=e1008] [cursor=pointer]:
+                      - /url: /vn/product/muji-w-s-lyocell-blended-jersey-gather-skirt-bb2w6a6a
+                - generic [ref=e1009]:
+                  - generic [ref=e1010]:
+                    - paragraph [ref=e1012]: Mới
+                    - link "MUJI Áo Thun Nữ Vải Jersey Cổ Tròn Tay Ngắn" [ref=e1013] [cursor=pointer]:
+                      - /url: /vn/product/muji-w-s-jersey-crew-neck-s-slv-t-shirt-vn-bb2sba6a
+                      - img "MUJI Áo Thun Nữ Vải Jersey Cổ Tròn Tay Ngắn" [ref=e1014]
+                  - generic [ref=e1015]:
+                    - paragraph [ref=e1016]:
+                      - link "MUJI Áo Thun Nữ Vải Jersey Cổ Tròn Tay Ngắn" [ref=e1017] [cursor=pointer]:
+                        - /url: /vn/product/muji-w-s-jersey-crew-neck-s-slv-t-shirt-vn-bb2sba6a
+                    - generic [ref=e1018]:
+                      - generic [ref=e1020]: 294.000VND
+                      - generic "Thêm vào danh sách yêu thích" [ref=e1021] [cursor=pointer]:
+                        - img [ref=e1022]
+                    - link "Mua Hàng" [ref=e1024] [cursor=pointer]:
+                      - /url: /vn/product/muji-w-s-jersey-crew-neck-s-slv-t-shirt-vn-bb2sba6a
+                - generic [ref=e1025]:
+                  - generic [ref=e1026]:
+                    - paragraph [ref=e1028]: Mới
+                    - link "MUJI Áo Thun Nữ Vải Jersey Tay Liền" [ref=e1029] [cursor=pointer]:
+                      - /url: /vn/product/muji-w-s-jersey-french-sleeve-t-shirt-vn-bb2rka6a
+                      - img "MUJI Áo Thun Nữ Vải Jersey Tay Liền" [ref=e1030]
+                  - generic [ref=e1031]:
+                    - paragraph [ref=e1032]:
+                      - link "MUJI Áo Thun Nữ Vải Jersey Tay Liền" [ref=e1033] [cursor=pointer]:
+                        - /url: /vn/product/muji-w-s-jersey-french-sleeve-t-shirt-vn-bb2rka6a
+                    - generic [ref=e1034]:
+                      - generic [ref=e1036]: 294.000VND
+                      - generic "Thêm vào danh sách yêu thích" [ref=e1037] [cursor=pointer]:
+                        - img [ref=e1038]
+                    - link "Mua Hàng" [ref=e1040] [cursor=pointer]:
+                      - /url: /vn/product/muji-w-s-jersey-french-sleeve-t-shirt-vn-bb2rka6a
+                - generic [ref=e1041]:
+                  - generic [ref=e1042]:
+                    - paragraph [ref=e1044]: Mới
+                    - link "MUJI Áo Thun Nữ Vải Jersey Cổ Thuyền Tay 3/4" [ref=e1045] [cursor=pointer]:
+                      - /url: /vn/product/muji-w-s-jersey-boat-neck-3-4-sleeve-t-shirt-vn-bb2pva6a
+                      - img "MUJI Áo Thun Nữ Vải Jersey Cổ Thuyền Tay 3/4" [ref=e1046]
+                  - generic [ref=e1047]:
+                    - paragraph [ref=e1048]:
+                      - link "MUJI Áo Thun Nữ Vải Jersey Cổ Thuyền Tay 3/4" [ref=e1049] [cursor=pointer]:
+                        - /url: /vn/product/muji-w-s-jersey-boat-neck-3-4-sleeve-t-shirt-vn-bb2pva6a
+                    - generic [ref=e1050]:
+                      - generic [ref=e1052]: 292.000VND
+                      - generic "Thêm vào danh sách yêu thích" [ref=e1053] [cursor=pointer]:
+                        - img [ref=e1054]
+                    - link "Mua Hàng" [ref=e1056] [cursor=pointer]:
+                      - /url: /vn/product/muji-w-s-jersey-boat-neck-3-4-sleeve-t-shirt-vn-bb2pva6a
+                - generic [ref=e1057]:
+                  - generic [ref=e1058]:
+                    - paragraph [ref=e1060]: Mới
+                    - link "MUJI Áo Thun Nam Vải Jersey Kẻ Sọc Cổ Tròn Tay Ngắn" [ref=e1061] [cursor=pointer]:
+                      - /url: /vn/product/muji-m-s-jersey-striped-crew-neck-s-slv-t-shirt-os-ab1mka6a
+                      - img "MUJI Áo Thun Nam Vải Jersey Kẻ Sọc Cổ Tròn Tay Ngắn" [ref=e1062]
+                  - generic [ref=e1063]:
+                    - paragraph [ref=e1064]:
+                      - link "MUJI Áo Thun Nam Vải Jersey Kẻ Sọc Cổ Tròn Tay Ngắn" [ref=e1065] [cursor=pointer]:
+                        - /url: /vn/product/muji-m-s-jersey-striped-crew-neck-s-slv-t-shirt-os-ab1mka6a
+                    - generic [ref=e1066]:
+                      - generic [ref=e1068]: 294.000VND
+                      - generic "Thêm vào danh sách yêu thích" [ref=e1069] [cursor=pointer]:
+                        - img [ref=e1070]
+                    - link "Mua Hàng" [ref=e1072] [cursor=pointer]:
+                      - /url: /vn/product/muji-m-s-jersey-striped-crew-neck-s-slv-t-shirt-os-ab1mka6a
+                - generic [ref=e1073]:
+                  - generic [ref=e1074]:
+                    - paragraph [ref=e1076]: Mới
+                    - link "MUJI Áo Thun Nam Vải Jersey Cổ Tròn Tay Ngắn" [ref=e1077] [cursor=pointer]:
+                      - /url: /vn/product/muji-m-s-jersey-crew-neck-s-slv-t-shirt-vn-ab1mia6a
+                      - img "MUJI Áo Thun Nam Vải Jersey Cổ Tròn Tay Ngắn" [ref=e1078]
+                  - generic [ref=e1079]:
+                    - paragraph [ref=e1080]:
+                      - link "MUJI Áo Thun Nam Vải Jersey Cổ Tròn Tay Ngắn" [ref=e1081] [cursor=pointer]:
+                        - /url: /vn/product/muji-m-s-jersey-crew-neck-s-slv-t-shirt-vn-ab1mia6a
+                    - generic [ref=e1082]:
+                      - generic [ref=e1084]: 294.000VND
+                      - generic "Thêm vào danh sách yêu thích" [ref=e1085] [cursor=pointer]:
+                        - img [ref=e1086]
+                    - link "Mua Hàng" [ref=e1088] [cursor=pointer]:
+                      - /url: /vn/product/muji-m-s-jersey-crew-neck-s-slv-t-shirt-vn-ab1mia6a
+                - generic [ref=e1089]:
+                  - generic [ref=e1090]:
+                    - paragraph [ref=e1092]: Mới
+                    - link "MUJI Quần Váy Nữ Hakama" [ref=e1093] [cursor=pointer]:
+                      - /url: /vn/product/muji-w-s-hakama-skirt-pants-be21pa6a
+                      - img "MUJI Quần Váy Nữ Hakama" [ref=e1094]
+                  - generic [ref=e1095]:
+                    - paragraph [ref=e1096]:
+                      - link "MUJI Quần Váy Nữ Hakama" [ref=e1097] [cursor=pointer]:
+                        - /url: /vn/product/muji-w-s-hakama-skirt-pants-be21pa6a
+                    - generic [ref=e1098]:
+                      - generic [ref=e1100]: 1.276.000VND
+                      - generic "Thêm vào danh sách yêu thích" [ref=e1101] [cursor=pointer]:
+                        - img [ref=e1102]
+                    - link "Mua Hàng" [ref=e1104] [cursor=pointer]:
+                      - /url: /vn/product/muji-w-s-hakama-skirt-pants-be21pa6a
+                - generic [ref=e1105]:
+                  - generic [ref=e1106]:
+                    - paragraph [ref=e1108]: Mới
+                    - link "MUJI Áo Polo Nữ Vải Pique Washed Tay Ngắn" [ref=e1109] [cursor=pointer]:
+                      - /url: /vn/product/muji-w-s-washed-pique-s-slv-polo-shirt-asean-bb2pza6a
+                      - img "MUJI Áo Polo Nữ Vải Pique Washed Tay Ngắn" [ref=e1110]
+                  - generic [ref=e1111]:
+                    - paragraph [ref=e1112]:
+                      - link "MUJI Áo Polo Nữ Vải Pique Washed Tay Ngắn" [ref=e1113] [cursor=pointer]:
+                        - /url: /vn/product/muji-w-s-washed-pique-s-slv-polo-shirt-asean-bb2pza6a
+                    - generic [ref=e1114]:
+                      - generic [ref=e1116]: 490.000VND
+                      - generic "Thêm vào danh sách yêu thích" [ref=e1117] [cursor=pointer]:
+                        - img [ref=e1118]
+                    - link "Mua Hàng" [ref=e1120] [cursor=pointer]:
+                      - /url: /vn/product/muji-w-s-washed-pique-s-slv-polo-shirt-asean-bb2pza6a
+          - generic [ref=e1122]:
+            - generic [ref=e1123]:
+              - heading "Sức Khoẻ & Làm Đẹp" [level=3] [ref=e1124]
+              - generic [ref=e1127]:
+                - generic [ref=e1129]:
+                  - link "Sản Phẩm Làm Đẹp" [ref=e1131] [cursor=pointer]:
+                    - /url: /vn/category/243-care-items
+                    - img "Sản Phẩm Làm Đẹp" [ref=e1132]
+                  - link "Sản Phẩm Làm Đẹp" [ref=e1133] [cursor=pointer]:
+                    - /url: /vn/category/243-care-items
+                - generic [ref=e1135]:
+                  - link "Phụ Kiện Trang Điểm" [ref=e1137] [cursor=pointer]:
+                    - /url: /vn/category/244-makeup-tools
+                    - img "Phụ Kiện Trang Điểm" [ref=e1138]
+                  - link "Phụ Kiện Trang Điểm" [ref=e1139] [cursor=pointer]:
+                    - /url: /vn/category/244-makeup-tools
+                - generic [ref=e1141]:
+                  - link "Sản Phẩm Làm Sạch" [ref=e1143] [cursor=pointer]:
+                    - /url: /vn/category/245-sanitary
+                    - img "Sản Phẩm Làm Sạch" [ref=e1144]
+                  - link "Sản Phẩm Làm Sạch" [ref=e1145] [cursor=pointer]:
+                    - /url: /vn/category/245-sanitary
+                - generic [ref=e1147]:
+                  - link "Chăm Sóc Tóc" [ref=e1149] [cursor=pointer]:
+                    - /url: /vn/category/246-hair-care
+                    - img "Chăm Sóc Tóc" [ref=e1150]
+                  - link "Chăm Sóc Tóc" [ref=e1151] [cursor=pointer]:
+                    - /url: /vn/category/246-hair-care
+                - generic [ref=e1153]:
+                  - link "Dòng Dưỡng Da Nhạy Cảm" [ref=e1155] [cursor=pointer]:
+                    - /url: /vn/category/2506-booster-essence-sensitive-care-series
+                    - img "Dòng Dưỡng Da Nhạy Cảm" [ref=e1156]
+                  - link "Dòng Dưỡng Da Nhạy Cảm" [ref=e1157] [cursor=pointer]:
+                    - /url: /vn/category/2506-booster-essence-sensitive-care-series
+                - generic [ref=e1159]:
+                  - link "Rich Serum Series" [ref=e1161] [cursor=pointer]:
+                    - /url: /vn/category/2607-rich-serum-series
+                    - img "Rich Serum Series" [ref=e1162]
+                  - link "Rich Serum Series" [ref=e1163] [cursor=pointer]:
+                    - /url: /vn/category/2607-rich-serum-series
+            - generic [ref=e1165]:
+              - generic [ref=e1166]:
+                - heading "Sản phẩm nổi bật" [level=4] [ref=e1167]
+                - link "Xem Thêm" [ref=e1168] [cursor=pointer]:
+                  - /url: /vn/category/228-health-beauty
+              - generic [ref=e1171]:
+                - generic [ref=e1172]:
+                  - generic [ref=e1173]:
+                    - paragraph [ref=e1175]: Mới
+                    - link "MUJI Giá Đỡ Palette Trang Điểm" [ref=e1176] [cursor=pointer]:
+                      - /url: /vn/product/muji-recycled-polypropylene-blend-makeup-box-palette-stand-4550584935138
+                      - img "MUJI Giá Đỡ Palette Trang Điểm" [ref=e1177]
+                  - generic [ref=e1178]:
+                    - paragraph [ref=e1179]:
+                      - link "MUJI Giá Đỡ Palette Trang Điểm" [ref=e1180] [cursor=pointer]:
+                        - /url: /vn/product/muji-recycled-polypropylene-blend-makeup-box-palette-stand-4550584935138
+                    - generic [ref=e1181]:
+                      - generic [ref=e1183]: 68.000VND
+                      - generic "Thêm vào danh sách yêu thích" [ref=e1184] [cursor=pointer]:
+                        - img [ref=e1185]
+                    - button "Mua Hàng" [ref=e1187] [cursor=pointer]
+                - generic [ref=e1188]:
+                  - generic [ref=e1189]:
+                    - paragraph [ref=e1191]: Mới
+                    - link "MUJI Kéo Tỉa Tóc - 15.5cm" [ref=e1192] [cursor=pointer]:
+                      - /url: /vn/product/muji-hair-thinning-scissors-4550584067877
+                      - img "MUJI Kéo Tỉa Tóc - 15.5cm" [ref=e1193]
+                  - generic [ref=e1194]:
+                    - paragraph [ref=e1195]:
+                      - link "MUJI Kéo Tỉa Tóc - 15.5cm" [ref=e1196] [cursor=pointer]:
+                        - /url: /vn/product/muji-hair-thinning-scissors-4550584067877
+                    - generic [ref=e1197]:
+                      - generic [ref=e1199]: 392.000VND
+                      - generic "Thêm vào danh sách yêu thích" [ref=e1200] [cursor=pointer]:
+                        - img [ref=e1201]
+                    - button "Mua Hàng" [ref=e1203] [cursor=pointer]
+                - generic [ref=e1204]:
+                  - generic [ref=e1205]:
+                    - paragraph [ref=e1207]: Mới
+                    - link "MUJI Kéo Cắt Tóc - 15.5 Cm" [ref=e1208] [cursor=pointer]:
+                      - /url: /vn/product/muji-haircut-scissors-4550584067860
+                      - img "MUJI Kéo Cắt Tóc - 15.5 Cm" [ref=e1209]
+                  - generic [ref=e1210]:
+                    - paragraph [ref=e1211]:
+                      - link "MUJI Kéo Cắt Tóc - 15.5 Cm" [ref=e1212] [cursor=pointer]:
+                        - /url: /vn/product/muji-haircut-scissors-4550584067860
+                    - generic [ref=e1213]:
+                      - generic [ref=e1215]: 372.000VND
+                      - generic "Thêm vào danh sách yêu thích" [ref=e1216] [cursor=pointer]:
+                        - img [ref=e1217]
+                    - button "Mua Hàng" [ref=e1219] [cursor=pointer]
+                - generic [ref=e1220]:
+                  - generic [ref=e1221]:
+                    - paragraph [ref=e1223]: Mới
+                    - link "MUJI Tinh Chất Dưỡng Da Đậm Đặc Retinol" [ref=e1224] [cursor=pointer]:
+                      - /url: /vn/product/muji-rich-serum-4550583451356
+                      - img "MUJI Tinh Chất Dưỡng Da Đậm Đặc Retinol" [ref=e1225]
+                  - generic [ref=e1226]:
+                    - paragraph [ref=e1227]:
+                      - link "MUJI Tinh Chất Dưỡng Da Đậm Đặc Retinol" [ref=e1228] [cursor=pointer]:
+                        - /url: /vn/product/muji-rich-serum-4550583451356
+                    - generic [ref=e1229]:
+                      - generic [ref=e1231]: 588.000VND
+                      - generic "Thêm vào danh sách yêu thích" [ref=e1232] [cursor=pointer]:
+                        - img [ref=e1233]
+                    - button "Mua Hàng" [ref=e1235] [cursor=pointer]
+                - generic [ref=e1236]:
+                  - generic [ref=e1237]:
+                    - paragraph [ref=e1239]: Mới
+                    - link "Túi Nylon Đựng Phụ Kiện Trang Điểm Size L MUJI" [ref=e1240] [cursor=pointer]:
+                      - /url: /vn/product/nylon-makeup-box-muji-4550583525347
+                      - img "Túi Nylon Đựng Phụ Kiện Trang Điểm Size L MUJI" [ref=e1241]
+                  - generic [ref=e1242]:
+                    - paragraph [ref=e1243]:
+                      - link "Túi Nylon Đựng Phụ Kiện Trang Điểm Size L MUJI" [ref=e1244] [cursor=pointer]:
+                        - /url: /vn/product/nylon-makeup-box-muji-4550583525347
+                    - generic [ref=e1245]:
+                      - generic [ref=e1247]: 490.000VND
+                      - generic "Thêm vào danh sách yêu thích" [ref=e1248] [cursor=pointer]:
+                        - img [ref=e1249]
+                    - button "Mua Hàng" [ref=e1251] [cursor=pointer]
+                - generic [ref=e1252]:
+                  - generic [ref=e1253]:
+                    - paragraph [ref=e1255]: Mới
+                    - link "Bấm Móng Tay-Size S MUJI" [ref=e1256] [cursor=pointer]:
+                      - /url: /vn/product/stainless-steel-nail-clippers-4550584067839
+                      - img "Bấm Móng Tay-Size S MUJI" [ref=e1257]
+                  - generic [ref=e1258]:
+                    - paragraph [ref=e1259]:
+                      - link "Bấm Móng Tay-Size S MUJI" [ref=e1260] [cursor=pointer]:
+                        - /url: /vn/product/stainless-steel-nail-clippers-4550584067839
+                    - generic [ref=e1261]:
+                      - generic [ref=e1263]: 176.000VND
+                      - generic "Thêm vào danh sách yêu thích" [ref=e1264] [cursor=pointer]:
+                        - img [ref=e1265]
+                    - button "Mua Hàng" [ref=e1267] [cursor=pointer]
+                - generic [ref=e1268]:
+                  - link "MUJI Túi Nylon Tái Chế Đựng Đồ Trang Điểm - Đen" [ref=e1270] [cursor=pointer]:
+                    - /url: /vn/product/muji-recycled-nylon-makeup-pouch-black-4548076037705
+                    - img "MUJI Túi Nylon Tái Chế Đựng Đồ Trang Điểm - Đen" [ref=e1271]
+                  - generic [ref=e1272]:
+                    - paragraph [ref=e1273]:
+                      - link "MUJI Túi Nylon Tái Chế Đựng Đồ Trang Điểm - Đen" [ref=e1274] [cursor=pointer]:
+                        - /url: /vn/product/muji-recycled-nylon-makeup-pouch-black-4548076037705
+                    - generic [ref=e1275]:
+                      - generic [ref=e1277]: 274.000VND
+                      - generic "Thêm vào danh sách yêu thích" [ref=e1278] [cursor=pointer]:
+                        - img [ref=e1279]
+                    - button "Mua Hàng" [ref=e1281] [cursor=pointer]
+                - generic [ref=e1282]:
+                  - link "MUJI Túi Nylon Tái Chế Có Quai - Đen" [ref=e1284] [cursor=pointer]:
+                    - /url: /vn/product/muji-recycled-nylon-pouch-with-handle-black-4548076037682
+                    - img "MUJI Túi Nylon Tái Chế Có Quai - Đen" [ref=e1285]
+                  - generic [ref=e1286]:
+                    - paragraph [ref=e1287]:
+                      - link "MUJI Túi Nylon Tái Chế Có Quai - Đen" [ref=e1288] [cursor=pointer]:
+                        - /url: /vn/product/muji-recycled-nylon-pouch-with-handle-black-4548076037682
+                    - generic [ref=e1289]:
+                      - generic [ref=e1291]: 264.000VND
+                      - generic "Thêm vào danh sách yêu thích" [ref=e1292] [cursor=pointer]:
+                        - img [ref=e1293]
+                    - button "Mua Hàng" [ref=e1295] [cursor=pointer]
+                - generic [ref=e1296]:
+                  - link "MUJI Túi Nylon Tái Chế Dáng Mỏng Có Quai - Đen" [ref=e1298] [cursor=pointer]:
+                    - /url: /vn/product/muji-recycled-nylon-pouch-with-handle-slim-black-4548076037668
+                    - img "MUJI Túi Nylon Tái Chế Dáng Mỏng Có Quai - Đen" [ref=e1299]
+                  - generic [ref=e1300]:
+                    - paragraph [ref=e1301]:
+                      - link "MUJI Túi Nylon Tái Chế Dáng Mỏng Có Quai - Đen" [ref=e1302] [cursor=pointer]:
+                        - /url: /vn/product/muji-recycled-nylon-pouch-with-handle-slim-black-4548076037668
+                    - generic [ref=e1303]:
+                      - generic [ref=e1305]: 225.000VND
+                      - generic "Thêm vào danh sách yêu thích" [ref=e1306] [cursor=pointer]:
+                        - img [ref=e1307]
+                    - button "Mua Hàng" [ref=e1309] [cursor=pointer]
+                - generic [ref=e1310]:
+                  - link "MUJI Túi Nylon Tái Chế Đựng Cọ Trang Điểm - Đen" [ref=e1312] [cursor=pointer]:
+                    - /url: /vn/product/muji-recycled-nylon-brush-pouch-black-4548076037644
+                    - img "MUJI Túi Nylon Tái Chế Đựng Cọ Trang Điểm - Đen" [ref=e1313]
+                  - generic [ref=e1314]:
+                    - paragraph [ref=e1315]:
+                      - link "MUJI Túi Nylon Tái Chế Đựng Cọ Trang Điểm - Đen" [ref=e1316] [cursor=pointer]:
+                        - /url: /vn/product/muji-recycled-nylon-brush-pouch-black-4548076037644
+                    - generic [ref=e1317]:
+                      - generic [ref=e1319]: 99.000VND
+                      - generic "Thêm vào danh sách yêu thích" [ref=e1320] [cursor=pointer]:
+                        - img [ref=e1321]
+                    - button "Mua Hàng" [ref=e1323] [cursor=pointer]
+          - generic [ref=e1325]:
+            - generic [ref=e1326]:
+              - heading "Gia Dụng" [level=3] [ref=e1327]
+              - generic [ref=e1330]:
+                - generic [ref=e1332]:
+                  - link "Sản Phẩm Dệt May Trong Nhà" [ref=e1334] [cursor=pointer]:
+                    - /url: /vn/category/45-fabrics
+                    - img "Sản Phẩm Dệt May Trong Nhà" [ref=e1335]
+                  - link "Sản Phẩm Dệt May Trong Nhà" [ref=e1336] [cursor=pointer]:
+                    - /url: /vn/category/45-fabrics
+                - generic [ref=e1338]:
+                  - link "Đồ Điện Tử" [ref=e1340] [cursor=pointer]:
+                    - /url: /vn/category/47-electronics
+                    - img "Đồ Điện Tử" [ref=e1341]
+                  - link "Đồ Điện Tử" [ref=e1342] [cursor=pointer]:
+                    - /url: /vn/category/47-electronics
+                - generic [ref=e1344]:
+                  - link "Đồ Nội Thất" [ref=e1346] [cursor=pointer]:
+                    - /url: /vn/category/46-furniture
+                    - img "Đồ Nội Thất" [ref=e1347]
+                  - link "Đồ Nội Thất" [ref=e1348] [cursor=pointer]:
+                    - /url: /vn/category/46-furniture
+                - generic [ref=e1350]:
+                  - link "Đồ Dùng Gia Đình" [ref=e1352] [cursor=pointer]:
+                    - /url: /vn/category/48-houseware
+                    - img "Đồ Dùng Gia Đình" [ref=e1353]
+                  - link "Đồ Dùng Gia Đình" [ref=e1354] [cursor=pointer]:
+                    - /url: /vn/category/48-houseware
+                - generic [ref=e1356]:
+                  - link "Văn Phòng Phẩm" [ref=e1358] [cursor=pointer]:
+                    - /url: /vn/category/49-stationery
+                    - img "Văn Phòng Phẩm" [ref=e1359]
+                  - link "Văn Phòng Phẩm" [ref=e1360] [cursor=pointer]:
+                    - /url: /vn/category/49-stationery
+                - generic [ref=e1362]:
+                  - link "Du Lịch" [ref=e1364] [cursor=pointer]:
+                    - /url: /vn/category/50-traveling
+                    - img "Du Lịch" [ref=e1365]
+                  - link "Du Lịch" [ref=e1366] [cursor=pointer]:
+                    - /url: /vn/category/50-traveling
+                - generic [ref=e1368]:
+                  - link "Ưu Đãi Thứ 5 & Thứ 6 Hàng Tuần" [ref=e1370] [cursor=pointer]:
+                    - /url: /vn/category/1315-thursday-promotion-2025
+                    - img "Ưu Đãi Thứ 5 & Thứ 6 Hàng Tuần" [ref=e1371]
+                  - link "Ưu Đãi Thứ 5 & Thứ 6 Hàng Tuần" [ref=e1372] [cursor=pointer]:
+                    - /url: /vn/category/1315-thursday-promotion-2025
+                - generic [ref=e1374]:
+                  - link "Mid Year Offer" [ref=e1376] [cursor=pointer]:
+                    - /url: /vn/category/2612-mid-year-offer
+                    - img "Mid Year Offer" [ref=e1377]
+                  - link "Mid Year Offer" [ref=e1378] [cursor=pointer]:
+                    - /url: /vn/category/2612-mid-year-offer
+            - generic [ref=e1380]:
+              - generic [ref=e1381]:
+                - heading "Sản phẩm nổi bật" [level=4] [ref=e1382]
+                - link "Xem Thêm" [ref=e1383] [cursor=pointer]:
+                  - /url: /vn/category/43-home
+              - generic [ref=e1386]:
+                - generic [ref=e1387]:
+                  - generic [ref=e1388]:
+                    - paragraph [ref=e1390]: Mới
+                    - link "MUJI Bình Nước Trong Suốt Có Ống Hút" [ref=e1391] [cursor=pointer]:
+                      - /url: /vn/product/muji-clear-water-bottle-w-straw-md0vcc4s
+                      - img "MUJI Bình Nước Trong Suốt Có Ống Hút" [ref=e1392]
+                  - generic [ref=e1393]:
+                    - paragraph [ref=e1394]:
+                      - link "MUJI Bình Nước Trong Suốt Có Ống Hút" [ref=e1395] [cursor=pointer]:
+                        - /url: /vn/product/muji-clear-water-bottle-w-straw-md0vcc4s
+                    - generic [ref=e1396]:
+                      - generic [ref=e1398]: 244.000VND
+                      - generic "Thêm vào danh sách yêu thích" [ref=e1399] [cursor=pointer]:
+                        - img [ref=e1400]
+                    - link "Mua Hàng" [ref=e1402] [cursor=pointer]:
+                      - /url: /vn/product/muji-clear-water-bottle-w-straw-md0vcc4s
+                - generic [ref=e1403]:
+                  - generic [ref=e1404]:
+                    - paragraph [ref=e1406]: Mới
+                    - link "MUJI Hỗn Hợp Trái Cây Sấy Giòn - 80g" [ref=e1407] [cursor=pointer]:
+                      - /url: /vn/product/muji-crispy-mixed-fruit-chips-8935382700113
+                      - img "MUJI Hỗn Hợp Trái Cây Sấy Giòn - 80g" [ref=e1408]
+                  - generic [ref=e1409]:
+                    - paragraph [ref=e1410]:
+                      - link "MUJI Hỗn Hợp Trái Cây Sấy Giòn - 80g" [ref=e1411] [cursor=pointer]:
+                        - /url: /vn/product/muji-crispy-mixed-fruit-chips-8935382700113
+                    - generic [ref=e1412]:
+                      - generic [ref=e1414]: 48.000VND
+                      - generic "Thêm vào danh sách yêu thích" [ref=e1415] [cursor=pointer]:
+                        - img [ref=e1416]
+                    - button "Mua Hàng" [ref=e1418] [cursor=pointer]
+                - generic [ref=e1419]:
+                  - generic [ref=e1420]:
+                    - paragraph [ref=e1422]: Mới
+                    - link "MUJI Khoai Môn Sấy Giòn - 80g" [ref=e1423] [cursor=pointer]:
+                      - /url: /vn/product/muji-crispy-taro-chips-8935382700106
+                      - img "MUJI Khoai Môn Sấy Giòn - 80g" [ref=e1424]
+                  - generic [ref=e1425]:
+                    - paragraph [ref=e1426]:
+                      - link "MUJI Khoai Môn Sấy Giòn - 80g" [ref=e1427] [cursor=pointer]:
+                        - /url: /vn/product/muji-crispy-taro-chips-8935382700106
+                    - generic [ref=e1428]:
+                      - generic [ref=e1430]: 48.000VND
+                      - generic "Thêm vào danh sách yêu thích" [ref=e1431] [cursor=pointer]:
+                        - img [ref=e1432]
+                    - button "Mua Hàng" [ref=e1434] [cursor=pointer]
+                - generic [ref=e1435]:
+                  - generic [ref=e1436]:
+                    - paragraph [ref=e1438]: Mới
+                    - link "MUJI Chuối Sấy Giòn - 80g" [ref=e1439] [cursor=pointer]:
+                      - /url: /vn/product/muji-crispy-banana-chips-8935382700090
+                      - img "MUJI Chuối Sấy Giòn - 80g" [ref=e1440]
+                  - generic [ref=e1441]:
+                    - paragraph [ref=e1442]:
+                      - link "MUJI Chuối Sấy Giòn - 80g" [ref=e1443] [cursor=pointer]:
+                        - /url: /vn/product/muji-crispy-banana-chips-8935382700090
+                    - generic [ref=e1444]:
+                      - generic [ref=e1446]: 48.000VND
+                      - generic "Thêm vào danh sách yêu thích" [ref=e1447] [cursor=pointer]:
+                        - img [ref=e1448]
+                    - button "Mua Hàng" [ref=e1450] [cursor=pointer]
+                - generic [ref=e1451]:
+                  - generic [ref=e1452]:
+                    - paragraph [ref=e1454]: Mới
+                    - link "MUJI Mít Sấy Giòn - 80g" [ref=e1455] [cursor=pointer]:
+                      - /url: /vn/product/muji-crispy-jackfruit-chips-8935382700083
+                      - img "MUJI Mít Sấy Giòn - 80g" [ref=e1456]
+                  - generic [ref=e1457]:
+                    - paragraph [ref=e1458]:
+                      - link "MUJI Mít Sấy Giòn - 80g" [ref=e1459] [cursor=pointer]:
+                        - /url: /vn/product/muji-crispy-jackfruit-chips-8935382700083
+                    - generic [ref=e1460]:
+                      - generic [ref=e1462]: 48.000VND
+                      - generic "Thêm vào danh sách yêu thích" [ref=e1463] [cursor=pointer]:
+                        - img [ref=e1464]
+                    - button "Mua Hàng" [ref=e1466] [cursor=pointer]
+                - generic [ref=e1467]:
+                  - generic [ref=e1468]:
+                    - paragraph [ref=e1470]: Mới
+                    - link "MUJI Ghế Ngồi Bệt L - Màu Nâu Đen" [ref=e1471] [cursor=pointer]:
+                      - /url: /vn/product/muji-floor-chair-l-cotton-canvas-large-brown-4548076037156
+                      - img "MUJI Ghế Ngồi Bệt L - Màu Nâu Đen" [ref=e1472]
+                  - generic [ref=e1473]:
+                    - paragraph [ref=e1474]:
+                      - link "MUJI Ghế Ngồi Bệt L - Màu Nâu Đen" [ref=e1475] [cursor=pointer]:
+                        - /url: /vn/product/muji-floor-chair-l-cotton-canvas-large-brown-4548076037156
+                    - generic [ref=e1476]:
+                      - generic [ref=e1478]: 1.668.000VND
+                      - generic "Thêm vào danh sách yêu thích" [ref=e1479] [cursor=pointer]:
+                        - img [ref=e1480]
+                    - button "Mua Hàng" [ref=e1482] [cursor=pointer]
+                - generic [ref=e1483]:
+                  - generic [ref=e1484]:
+                    - paragraph [ref=e1486]: Mới
+                    - link "MUJI Ghế Ngồi Bệt L - Màu Be Xám" [ref=e1487] [cursor=pointer]:
+                      - /url: /vn/product/muji-floor-chair-l-cotton-canvas-large-beige-4548076037149
+                      - img "MUJI Ghế Ngồi Bệt L - Màu Be Xám" [ref=e1488]
+                  - generic [ref=e1489]:
+                    - paragraph [ref=e1490]:
+                      - link "MUJI Ghế Ngồi Bệt L - Màu Be Xám" [ref=e1491] [cursor=pointer]:
+                        - /url: /vn/product/muji-floor-chair-l-cotton-canvas-large-beige-4548076037149
+                    - generic [ref=e1492]:
+                      - generic [ref=e1494]: 1.668.000VND
+                      - generic "Thêm vào danh sách yêu thích" [ref=e1495] [cursor=pointer]:
+                        - img [ref=e1496]
+                    - button "Mua Hàng" [ref=e1498] [cursor=pointer]
+                - generic [ref=e1499]:
+                  - generic [ref=e1500]:
+                    - paragraph [ref=e1502]: Mới
+                    - link "MUJI Ghế Ngồi Bệt L - Tự Nhiên" [ref=e1503] [cursor=pointer]:
+                      - /url: /vn/product/muji-floor-chair-l-cotton-canvas-large-natural-4548076037002
+                      - img "MUJI Ghế Ngồi Bệt L - Tự Nhiên" [ref=e1504]
+                  - generic [ref=e1505]:
+                    - paragraph [ref=e1506]:
+                      - link "MUJI Ghế Ngồi Bệt L - Tự Nhiên" [ref=e1507] [cursor=pointer]:
+                        - /url: /vn/product/muji-floor-chair-l-cotton-canvas-large-natural-4548076037002
+                    - generic [ref=e1508]:
+                      - generic [ref=e1510]: 1.668.000VND
+                      - generic "Thêm vào danh sách yêu thích" [ref=e1511] [cursor=pointer]:
+                        - img [ref=e1512]
+                    - button "Mua Hàng" [ref=e1514] [cursor=pointer]
+                - generic [ref=e1515]:
+                  - generic [ref=e1516]:
+                    - paragraph [ref=e1518]: Mới
+                    - link "MUJI Hộp Bút Nhựa Có Vách Ngăn - Xám Đen" [ref=e1519] [cursor=pointer]:
+                      - /url: /vn/product/muji-polypropylene-pencil-case-with-detachable-divider-dark-grey-4550584663161
+                      - img "MUJI Hộp Bút Nhựa Có Vách Ngăn - Xám Đen" [ref=e1520]
+                  - generic [ref=e1521]:
+                    - paragraph [ref=e1522]:
+                      - link "MUJI Hộp Bút Nhựa Có Vách Ngăn - Xám Đen" [ref=e1523] [cursor=pointer]:
+                        - /url: /vn/product/muji-polypropylene-pencil-case-with-detachable-divider-dark-grey-4550584663161
+                    - generic [ref=e1524]:
+                      - generic [ref=e1526]: 79.000VND
+                      - generic "Thêm vào danh sách yêu thích" [ref=e1527] [cursor=pointer]:
+                        - img [ref=e1528]
+                    - button "Mua Hàng" [ref=e1530] [cursor=pointer]
+                - generic [ref=e1531]:
+                  - generic [ref=e1532]:
+                    - paragraph [ref=e1534]: Mới
+                    - link "MUJI Cốc Bằng Thép Không Gỉ Có Tráng Men Sứ" [ref=e1535] [cursor=pointer]:
+                      - /url: /vn/product/muji-stainless-steel-ceramic-coated-mug-s-4550584929977
+                      - img "MUJI Cốc Bằng Thép Không Gỉ Có Tráng Men Sứ" [ref=e1536]
+                  - generic [ref=e1537]:
+                    - paragraph [ref=e1538]:
+                      - link "MUJI Cốc Bằng Thép Không Gỉ Có Tráng Men Sứ" [ref=e1539] [cursor=pointer]:
+                        - /url: /vn/product/muji-stainless-steel-ceramic-coated-mug-s-4550584929977
+                    - generic [ref=e1540]:
+                      - generic [ref=e1542]: 441.000VND
+                      - generic "Thêm vào danh sách yêu thích" [ref=e1543] [cursor=pointer]:
+                        - img [ref=e1544]
+                    - button "Mua Hàng" [ref=e1546] [cursor=pointer]
+                - generic [ref=e1547]:
+                  - generic [ref=e1548]:
+                    - paragraph [ref=e1550]: Mới
+                    - link "MUJI Cốc Bằng Thép Không Gỉ Có Tráng Men Sứ" [ref=e1551] [cursor=pointer]:
+                      - /url: /vn/product/muji-stainless-steel-ceramic-coated-mug-l-4550584929946
+                      - img "MUJI Cốc Bằng Thép Không Gỉ Có Tráng Men Sứ" [ref=e1552]
+                  - generic [ref=e1553]:
+                    - paragraph [ref=e1554]:
+                      - link "MUJI Cốc Bằng Thép Không Gỉ Có Tráng Men Sứ" [ref=e1555] [cursor=pointer]:
+                        - /url: /vn/product/muji-stainless-steel-ceramic-coated-mug-l-4550584929946
+                    - generic [ref=e1556]:
+                      - generic [ref=e1558]: 490.000VND
+                      - generic "Thêm vào danh sách yêu thích" [ref=e1559] [cursor=pointer]:
+                        - img [ref=e1560]
+                    - button "Mua Hàng" [ref=e1562] [cursor=pointer]
+          - generic [ref=e1564]:
+            - generic [ref=e1565]:
+              - heading "Thực Phẩm" [level=3] [ref=e1566]
+              - generic [ref=e1568]:
+                - generic [ref=e1569]:
+                  - link "Đồ Ăn" [ref=e1571] [cursor=pointer]:
+                    - /url: /vn/category/51-add-seasoning
+                    - img "Đồ Ăn" [ref=e1572]
+                  - link "Đồ Ăn" [ref=e1573] [cursor=pointer]:
+                    - /url: /vn/category/51-add-seasoning
+                - generic [ref=e1574]:
+                  - link "Đồ Uống" [ref=e1576] [cursor=pointer]:
+                    - /url: /vn/category/53-frozen-food-drink
+                    - img "Đồ Uống" [ref=e1577]
+                  - link "Đồ Uống" [ref=e1578] [cursor=pointer]:
+                    - /url: /vn/category/53-frozen-food-drink
+            - generic [ref=e1579]:
+              - generic [ref=e1580]:
+                - heading "Sản phẩm nổi bật" [level=4] [ref=e1581]
+                - link "Xem Thêm" [ref=e1582] [cursor=pointer]:
+                  - /url: /vn/category/44-food-drink
+              - generic [ref=e1585]:
+                - generic [ref=e1586]:
+                  - generic [ref=e1587]:
+                    - paragraph [ref=e1589]: Mới
+                    - link "MUJI Hỗn Hợp Trái Cây Sấy Giòn - 80g" [ref=e1590] [cursor=pointer]:
+                      - /url: /vn/product/muji-crispy-mixed-fruit-chips-8935382700113
+                      - img "MUJI Hỗn Hợp Trái Cây Sấy Giòn - 80g" [ref=e1591]
+                  - generic [ref=e1592]:
+                    - paragraph [ref=e1593]:
+                      - link "MUJI Hỗn Hợp Trái Cây Sấy Giòn - 80g" [ref=e1594] [cursor=pointer]:
+                        - /url: /vn/product/muji-crispy-mixed-fruit-chips-8935382700113
+                    - generic [ref=e1595]:
+                      - generic [ref=e1597]: 48.000VND
+                      - generic "Thêm vào danh sách yêu thích" [ref=e1598] [cursor=pointer]:
+                        - img [ref=e1599]
+                    - button "Mua Hàng" [ref=e1601] [cursor=pointer]
+                - generic [ref=e1602]:
+                  - generic [ref=e1603]:
+                    - paragraph [ref=e1605]: Mới
+                    - link "MUJI Khoai Môn Sấy Giòn - 80g" [ref=e1606] [cursor=pointer]:
+                      - /url: /vn/product/muji-crispy-taro-chips-8935382700106
+                      - img "MUJI Khoai Môn Sấy Giòn - 80g" [ref=e1607]
+                  - generic [ref=e1608]:
+                    - paragraph [ref=e1609]:
+                      - link "MUJI Khoai Môn Sấy Giòn - 80g" [ref=e1610] [cursor=pointer]:
+                        - /url: /vn/product/muji-crispy-taro-chips-8935382700106
+                    - generic [ref=e1611]:
+                      - generic [ref=e1613]: 48.000VND
+                      - generic "Thêm vào danh sách yêu thích" [ref=e1614] [cursor=pointer]:
+                        - img [ref=e1615]
+                    - button "Mua Hàng" [ref=e1617] [cursor=pointer]
+                - generic [ref=e1618]:
+                  - generic [ref=e1619]:
+                    - paragraph [ref=e1621]: Mới
+                    - link "MUJI Chuối Sấy Giòn - 80g" [ref=e1622] [cursor=pointer]:
+                      - /url: /vn/product/muji-crispy-banana-chips-8935382700090
+                      - img "MUJI Chuối Sấy Giòn - 80g" [ref=e1623]
+                  - generic [ref=e1624]:
+                    - paragraph [ref=e1625]:
+                      - link "MUJI Chuối Sấy Giòn - 80g" [ref=e1626] [cursor=pointer]:
+                        - /url: /vn/product/muji-crispy-banana-chips-8935382700090
+                    - generic [ref=e1627]:
+                      - generic [ref=e1629]: 48.000VND
+                      - generic "Thêm vào danh sách yêu thích" [ref=e1630] [cursor=pointer]:
+                        - img [ref=e1631]
+                    - button "Mua Hàng" [ref=e1633] [cursor=pointer]
+                - generic [ref=e1634]:
+                  - generic [ref=e1635]:
+                    - paragraph [ref=e1637]: Mới
+                    - link "MUJI Mít Sấy Giòn - 80g" [ref=e1638] [cursor=pointer]:
+                      - /url: /vn/product/muji-crispy-jackfruit-chips-8935382700083
+                      - img "MUJI Mít Sấy Giòn - 80g" [ref=e1639]
+                  - generic [ref=e1640]:
+                    - paragraph [ref=e1641]:
+                      - link "MUJI Mít Sấy Giòn - 80g" [ref=e1642] [cursor=pointer]:
+                        - /url: /vn/product/muji-crispy-jackfruit-chips-8935382700083
+                    - generic [ref=e1643]:
+                      - generic [ref=e1645]: 48.000VND
+                      - generic "Thêm vào danh sách yêu thích" [ref=e1646] [cursor=pointer]:
+                        - img [ref=e1647]
+                    - button "Mua Hàng" [ref=e1649] [cursor=pointer]
+                - generic [ref=e1650]:
+                  - generic [ref=e1651]:
+                    - paragraph [ref=e1653]: Mới
+                    - link "MUJI Bánh Snack Ngô Phủ Sôcôla - 117g" [ref=e1654] [cursor=pointer]:
+                      - /url: /vn/product/muji-chocolate-coated-corn-puffs-117g-4550584336041
+                      - img "MUJI Bánh Snack Ngô Phủ Sôcôla - 117g" [ref=e1655]
+                  - generic [ref=e1656]:
+                    - paragraph [ref=e1657]:
+                      - link "MUJI Bánh Snack Ngô Phủ Sôcôla - 117g" [ref=e1658] [cursor=pointer]:
+                        - /url: /vn/product/muji-chocolate-coated-corn-puffs-117g-4550584336041
+                    - generic [ref=e1659]:
+                      - generic [ref=e1661]: 78.000VND
+                      - generic "Thêm vào danh sách yêu thích" [ref=e1662] [cursor=pointer]:
+                        - img [ref=e1663]
+                    - button "Mua Hàng" [ref=e1665] [cursor=pointer]
+                - generic [ref=e1666]:
+                  - generic [ref=e1667]:
+                    - paragraph [ref=e1669]: Mới
+                    - link "MUJI Kẹo Cứng Vị Trà Matcha - 45g" [ref=e1670] [cursor=pointer]:
+                      - /url: /vn/product/muji-matcha-candies-45g-4550182272604
+                      - img "MUJI Kẹo Cứng Vị Trà Matcha - 45g" [ref=e1671]
+                  - generic [ref=e1672]:
+                    - paragraph [ref=e1673]:
+                      - link "MUJI Kẹo Cứng Vị Trà Matcha - 45g" [ref=e1674] [cursor=pointer]:
+                        - /url: /vn/product/muji-matcha-candies-45g-4550182272604
+                    - generic [ref=e1675]:
+                      - generic [ref=e1677]: 48.000VND
+                      - generic "Thêm vào danh sách yêu thích" [ref=e1678] [cursor=pointer]:
+                        - img [ref=e1679]
+                    - button "Mua Hàng" [ref=e1681] [cursor=pointer]
+                - generic [ref=e1682]:
+                  - generic [ref=e1683]:
+                    - paragraph [ref=e1685]: Mới
+                    - link "MUJI Cà Ri Súp Kem Tôm Và Sò Điệp - 180g (Dùng Cho 01 Phần Ăn)" [ref=e1686] [cursor=pointer]:
+                      - /url: /vn/product/muji-prawn-scallop-bisque-curry-180g-for-1-4550512478270
+                      - img "MUJI Cà Ri Súp Kem Tôm Và Sò Điệp - 180g (Dùng Cho 01 Phần Ăn)" [ref=e1687]
+                  - generic [ref=e1688]:
+                    - paragraph [ref=e1689]:
+                      - link "MUJI Cà Ri Súp Kem Tôm Và Sò Điệp - 180g (Dùng Cho 01 Phần Ăn)" [ref=e1690] [cursor=pointer]:
+                        - /url: /vn/product/muji-prawn-scallop-bisque-curry-180g-for-1-4550512478270
+                    - generic [ref=e1691]:
+                      - generic [ref=e1693]: 126.000VND
+                      - generic "Thêm vào danh sách yêu thích" [ref=e1694] [cursor=pointer]:
+                        - img [ref=e1695]
+                    - button "Mua Hàng" [ref=e1697] [cursor=pointer]
+                - generic [ref=e1698]:
+                  - generic [ref=e1699]:
+                    - paragraph [ref=e1701]: Mới
+                    - link "MUJI Cà Ri Tôm Moilee (cà Ri Tôm Và Nước Cốt Dừa) - 180g (Dùng Cho 01 Phần Ăn)" [ref=e1702] [cursor=pointer]:
+                      - /url: /vn/product/muji-prawn-moilee-prawn-coconut-curry-180g-for-1-4550344598047
+                      - img "MUJI Cà Ri Tôm Moilee (cà Ri Tôm Và Nước Cốt Dừa) - 180g (Dùng Cho 01 Phần Ăn)" [ref=e1703]
+                  - generic [ref=e1704]:
+                    - paragraph [ref=e1705]:
+                      - link "MUJI Cà Ri Tôm Moilee (cà Ri Tôm Và Nước Cốt Dừa) - 180g (Dùng Cho 01 Phần Ăn)" [ref=e1706] [cursor=pointer]:
+                        - /url: /vn/product/muji-prawn-moilee-prawn-coconut-curry-180g-for-1-4550344598047
+                    - generic [ref=e1707]:
+                      - generic [ref=e1709]: 126.000VND
+                      - generic "Thêm vào danh sách yêu thích" [ref=e1710] [cursor=pointer]:
+                        - img [ref=e1711]
+                    - button "Mua Hàng" [ref=e1713] [cursor=pointer]
+                - generic [ref=e1714]:
+                  - generic [ref=e1715]:
+                    - paragraph [ref=e1717]: Mới
+                    - link "MUJI Cà Ri Rau Củ Và Táo - 180g (Dùng Cho 01 Phần Ăn)" [ref=e1718] [cursor=pointer]:
+                      - /url: /vn/product/muji-apple-vegetable-curry-180g-for-1-4550182505863
+                      - img "MUJI Cà Ri Rau Củ Và Táo - 180g (Dùng Cho 01 Phần Ăn)" [ref=e1719]
+                  - generic [ref=e1720]:
+                    - paragraph [ref=e1721]:
+                      - link "MUJI Cà Ri Rau Củ Và Táo - 180g (Dùng Cho 01 Phần Ăn)" [ref=e1722] [cursor=pointer]:
+                        - /url: /vn/product/muji-apple-vegetable-curry-180g-for-1-4550182505863
+                    - generic [ref=e1723]:
+                      - generic [ref=e1725]: 126.000VND
+                      - generic "Thêm vào danh sách yêu thích" [ref=e1726] [cursor=pointer]:
+                        - img [ref=e1727]
+                    - button "Mua Hàng" [ref=e1729] [cursor=pointer]
+                - generic [ref=e1730]:
+                  - generic [ref=e1731]:
+                    - paragraph [ref=e1733]: Mới
+                    - link "MUJI Sô Cô La Đậu Phộng" [ref=e1734] [cursor=pointer]:
+                      - /url: /vn/product/muji-peanuts-chocolate-219g-4550584336034
+                      - img "MUJI Sô Cô La Đậu Phộng" [ref=e1735]
+                  - generic [ref=e1736]:
+                    - paragraph [ref=e1737]:
+                      - link "MUJI Sô Cô La Đậu Phộng" [ref=e1738] [cursor=pointer]:
+                        - /url: /vn/product/muji-peanuts-chocolate-219g-4550584336034
+                    - generic [ref=e1739]:
+                      - generic [ref=e1741]: 126.000VND
+                      - generic "Thêm vào danh sách yêu thích" [ref=e1742] [cursor=pointer]:
+                        - img [ref=e1743]
+                    - button "Mua Hàng" [ref=e1745] [cursor=pointer]
+                - generic [ref=e1746]:
+                  - generic [ref=e1747]:
+                    - paragraph [ref=e1749]: Mới
+                    - link "MUJI Sốt Pasta Trứng Cá Tuyết" [ref=e1750] [cursor=pointer]:
+                      - /url: /vn/product/muji-cod-roe-sauce-31-2g-x-2-for-2-4550583972035
+                      - img "MUJI Sốt Pasta Trứng Cá Tuyết" [ref=e1751]
+                  - generic [ref=e1752]:
+                    - paragraph [ref=e1753]:
+                      - link "MUJI Sốt Pasta Trứng Cá Tuyết" [ref=e1754] [cursor=pointer]:
+                        - /url: /vn/product/muji-cod-roe-sauce-31-2g-x-2-for-2-4550583972035
+                    - generic [ref=e1755]:
+                      - generic [ref=e1757]: 97.000VND
+                      - generic "Thêm vào danh sách yêu thích" [ref=e1758] [cursor=pointer]:
+                        - img [ref=e1759]
+                    - button "Mua Hàng" [ref=e1761] [cursor=pointer]
+                - generic [ref=e1762]:
+                  - generic [ref=e1763]:
+                    - paragraph [ref=e1765]: Mới
+                    - link "MUJI Sốt Thịt Bò Viên Hầm Với Cà Chua" [ref=e1766] [cursor=pointer]:
+                      - /url: /vn/product/muji-stewed-hamburger-steak-with-tomato-sauce-160g-for-1-4550584761379
+                      - img "MUJI Sốt Thịt Bò Viên Hầm Với Cà Chua" [ref=e1767]
+                  - generic [ref=e1768]:
+                    - paragraph [ref=e1769]:
+                      - link "MUJI Sốt Thịt Bò Viên Hầm Với Cà Chua" [ref=e1770] [cursor=pointer]:
+                        - /url: /vn/product/muji-stewed-hamburger-steak-with-tomato-sauce-160g-for-1-4550584761379
+                    - generic [ref=e1771]:
+                      - generic [ref=e1773]: 97.000VND
+                      - generic "Thêm vào danh sách yêu thích" [ref=e1774] [cursor=pointer]:
+                        - img [ref=e1775]
+                    - button "Mua Hàng" [ref=e1777] [cursor=pointer]
+  - contentinfo [ref=e1779]:
+    - generic [ref=e1781]:
+      - generic [ref=e1782]:
+        - paragraph [ref=e1785]:
+          - img "MUJI Viet Nam" [ref=e1786]
+        - paragraph [ref=e1789]:
+          - link "Đã thông báo bộ công thương" [ref=e1790] [cursor=pointer]:
+            - /url: http://online.gov.vn/Home/WebDetails/123273
+            - img "Đã thông báo bộ công thương" [ref=e1791]
+      - generic [ref=e1793]:
+        - list [ref=e1794]:
+          - listitem [ref=e1795]:
+            - strong [ref=e1796]: Về MUJI
+          - listitem [ref=e1797]:
+            - link "MUJI là gì?" [ref=e1798] [cursor=pointer]:
+              - /url: /vn/page/about
+          - listitem [ref=e1799]:
+            - link "Thông báo" [ref=e1800] [cursor=pointer]:
+              - /url: /vn/page/notice
+          - listitem [ref=e1801]:
+            - link "Cơ hội nghề nghiệp" [ref=e1802] [cursor=pointer]:
+              - /url: /vn/page/careers
+          - listitem [ref=e1803]:
+            - link "Câu hỏi thường gặp" [ref=e1804] [cursor=pointer]:
+              - /url: /vn/page/faq
+          - listitem [ref=e1805]:
+            - link "MUJI Catalog Hàng Gia Dụng" [ref=e1806] [cursor=pointer]:
+              - /url: https://drive.google.com/file/d/1EKamrFCZqF-4difsKUT_i99vj9aGli-Y/view?usp=sharing
+        - list [ref=e1807]:
+          - listitem [ref=e1808]:
+            - strong [ref=e1809]: Cửa hàng Bán lẻ
+          - listitem [ref=e1810]:
+            - link "Chính sách Đổi, Trả, Hoàn tiền" [ref=e1811] [cursor=pointer]:
+              - /url: /vn/page/notice-2716
+          - listitem [ref=e1812]:
+            - link "Danh sách cửa hàng" [ref=e1813] [cursor=pointer]:
+              - /url: /vn/page/store-location
+        - list [ref=e1814]:
+          - listitem [ref=e1815]:
+            - strong [ref=e1816]: Cửa hàng Trực tuyến
+          - listitem [ref=e1817]:
+            - link "Chính sách Bán hàng" [ref=e1818] [cursor=pointer]:
+              - /url: /vn/page/sales-policy
+          - listitem [ref=e1819]:
+            - link "Chính sách Giao hàng" [ref=e1820] [cursor=pointer]:
+              - /url: /vn/page/delivery
+          - listitem [ref=e1821]:
+            - link "Chính sách Trả hàng, Hoàn tiền" [ref=e1822] [cursor=pointer]:
+              - /url: /vn/page/refund
+          - listitem [ref=e1823]:
+            - link "Chính sách Đổi hàng" [ref=e1824] [cursor=pointer]:
+              - /url: /vn/page/return
+          - listitem [ref=e1825]:
+            - link "Chính sách Bảo hành" [ref=e1826] [cursor=pointer]:
+              - /url: /vn/page/warranty
+          - listitem [ref=e1827]:
+            - link "Chính sách Bảo mật" [ref=e1828] [cursor=pointer]:
+              - /url: /vn/page/privacy
+          - listitem [ref=e1829]:
+            - link "Chính sách Nhận hàng tại cửa hàng" [ref=e1830] [cursor=pointer]:
+              - /url: https://www.muji.com.vn/vn/page/pickupstore
+      - generic [ref=e1831]:
+        - paragraph [ref=e1834]: Đăng ký nhận bản tin từ MUJI
+        - generic [ref=e1835]:
+          - generic [ref=e1836]:
+            - textbox "Nhập địa chỉ email" [ref=e1838]
+            - button "Đăng ký" [ref=e1839] [cursor=pointer]
+          - region "Notifications (F8)":
+            - list
+        - list [ref=e1842]:
+          - listitem [ref=e1843]:
+            - link "Zalo" [ref=e1844] [cursor=pointer]:
+              - /url: https://zalo.me/1276233230047562218
+              - img "Zalo" [ref=e1845]
+          - listitem [ref=e1846]:
+            - link "Facebook" [ref=e1847] [cursor=pointer]:
+              - /url: https://www.facebook.com/MUJIVietnam
+              - img "Facebook" [ref=e1848]
+          - listitem [ref=e1849]:
+            - link "Instagram" [ref=e1850] [cursor=pointer]:
+              - /url: https://www.instagram.com/muji_vn/
+              - img "Instagram" [ref=e1851]
+          - listitem [ref=e1852]:
+            - link "Tiktok" [ref=e1853] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@mujivietnam
+              - img "Tiktok" [ref=e1854]
+    - generic [ref=e1857]:
+      - paragraph [ref=e1858]:
+        - emphasis [ref=e1859]: Bản quyền thuộc © Ryohin Keikaku Co., Ltd.
+      - paragraph [ref=e1860]:
+        - strong [ref=e1861]: CÔNG TY TNHH MUJI RETAIL (VIỆT NAM)
+      - paragraph [ref=e1862]: "ĐKKD SỐ 0315855270 do sở KH & ĐT TP.HCM cấp ngày: 20/08/2019"
+      - paragraph [ref=e1863]: "Trụ sở chính: Phòng số 09-00, Tầng 9, Tòa nhà số 9-11, đường Tôn Đức Thắng, Phường Sài Gòn, Thành phố Hồ Chí Minh, Việt Nam"
+      - paragraph [ref=e1864]: "Liên hệ trụ sở: 028 7108 8388"
+      - paragraph [ref=e1865]: "Thời gian làm việc: Thứ 2 - Thứ 6, Từ 08:00 sáng - 05:00 chiều"
+      - paragraph [ref=e1866]:
+        - text: "Chăm sóc khách hàng tại các cửa hàng:"
+        - link "https://www.muji.com.vn/vn/page/store-location" [ref=e1867] [cursor=pointer]:
+          - /url: https://www.muji.com.vn/vn/page/store-location
+      - paragraph [ref=e1868]:
+        - text: "Chăm sóc khách hàng thương mại điện tử: 1900 2555 79; Email:"
+        - link "ec.sale@muji.vn" [ref=e1869] [cursor=pointer]:
+          - /url: mailto:ec.sale@muji.vn
+      - paragraph [ref=e1870]
+    - generic [ref=e1871]:
+      - img "Support" [ref=e1872] [cursor=pointer]
+      - link "Hotline" [ref=e1875] [cursor=pointer]:
+        - /url: tel:1900255579
+        - img "Hotline" [ref=e1876]
+    - generic:
+      - button:
+        - img
+  - generic [ref=e1881]:
+    - paragraph [ref=e1884]:
+      - text: Chúng tôi sử dụng cookie (và các công nghệ tương tự khác) để thu thập dữ liệu nhằm cải thiện trải nghiệm mua sắm của bạn. Khi sử dụng trang web của chúng tôi, bạn đồng ý với việc thu thập dữ liệu như được mô tả trong
+      - link "Chính sách bảo mật" [ref=e1886] [cursor=pointer]:
+        - /url: https://www.muji.com.vn/vn/page/privacy
+      - text: của chúng tôi.
+    - button "Chấp nhận cookie" [ref=e1888] [cursor=pointer]:
+      - generic [ref=e1889]: Chấp nhận cookie
+    - paragraph [ref=e1890] [cursor=pointer]:
+      - img "close cookie" [ref=e1891]
+  - alert [ref=e1892]
+  - region "player:Picture in Picture window" [ref=e1893]:
+    - button "Close player" [ref=e1902] [cursor=pointer]:
+      - generic [ref=e1903]:
+        - img "Close player" [ref=e1905]
+        - generic: Close player
+  - status [ref=e1912]

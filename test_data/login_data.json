@@ -1,0 +1,12 @@
+{
+  "DN_01": {"email": "thanhblink@gmail.com", "password": "Th@nh2004", "expect": {"type": "success"}},
+  "DN_02": {"email": "emailnotexist@gmail.com", "password": "Th@nh2004", "expect": {"type": "error", "contains": "Thông tin đăng nh"}},
+  "DN_03": {"email": "thanhblinkgmail.com", "password": "Th@nh2004", "expect": {"type": "error", "contains": "Vui lòng nhập email hợp lệ"}},
+  "DN_04": {"email": "", "password": "Th@nh2004", "expect": {"type": "error", "contains": "Thông tin bắt buộc"}},
+  "DN_05": {"email": "thanhblink@gmail.com", "password": "", "expect": {"type": "error", "contains": "Mật khẩu phải có ít nhất 6 ký tự"}},
+  "DN_06": {"email": "thanhblink@gmail.com", "password": "thanh2004", "expect": {"type": "error", "contains": "Thông tin đăng nh"}},
+  "DN_07": {"email": "thanhblink@gmail.com", "password": "th@nh2004", "expect": {"type": "error", "contains": "Thông tin đăng nh"}},
+  "DN_08": {"email": "thanhblink@gmail.com", "password": " Th@nh2004", "expect": {"type": "error", "contains": "Thông tin đăng nh"}},
+  "DN_09": {"email": "", "password": "", "expect": {"type": "error", "any_of": ["Thông tin đăng nh", "Vui lòng nhập email hợp lệ", "Thông tin bắt buộc", "Mật khẩu phải có ít nhất 6 ký tự"]}},
+  "DN_10": {"email": " thanhblink@gmail.com", "password": "thanh2k4", "expect": {"type": "error", "contains": "Vui lòng nhập email hợp lệ"}}
+}

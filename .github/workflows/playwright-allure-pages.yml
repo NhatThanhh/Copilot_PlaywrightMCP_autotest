@@ -1,0 +1,105 @@
+name: Playwright Tests with Allure and GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  test-and-report:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Set up Java for Allure
+        uses: actions/setup-java@v4
+        with:
+          distribution: "temurin"
+          java-version: "17"
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Install Playwright browsers
+        run: |
+          python -m playwright install --with-deps chromium
+
+      - name: Install Allure CLI
+        run: |
+          curl -L -o allure-2.29.0.zip https://github.com/allure-framework/allure2/releases/download/2.29.0/allure-2.29.0.zip
+          unzip allure-2.29.0.zip -d /opt
+          sudo ln -sf /opt/allure-2.29.0/bin/allure /usr/local/bin/allure
+          allure --version
+
+      - name: Run Playwright tests
+        run: |
+          mkdir -p reports/allure-results
+          set +e
+          pytest tests -q --alluredir=reports/allure-results
+          TEST_EXIT_CODE=$?
+          echo "TEST_EXIT_CODE=$TEST_EXIT_CODE" >> $GITHUB_ENV
+          set -e
+
+      - name: Generate Allure report
+        if: always()
+        run: |
+          mkdir -p reports/allure-report
+          allure generate reports/allure-results -o reports/allure-report --clean
+          touch reports/allure-report/.nojekyll
+
+      - name: Setup GitHub Pages
+        if: github.event_name != 'pull_request'
+        uses: actions/configure-pages@v5
+
+      - name: Upload Allure report as GitHub Pages artifact
+        if: github.event_name != 'pull_request'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: reports/allure-report
+
+      - name: Upload raw Allure results artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: allure-results
+          path: reports/allure-results
+
+      - name: Fail workflow if tests failed
+        if: always()
+        run: |
+          exit ${TEST_EXIT_CODE:-0}
+
+  deploy-pages:
+    needs: test-and-report
+    if: github.event_name != 'pull_request' && always()
+    runs-on: ubuntu-latest
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

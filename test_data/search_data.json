@@ -1,0 +1,63 @@
+{
+    "TK_01": {
+        "test_name": "Verify search results related to keyword",
+        "keyword": "áo thun",
+        "assertion": "related_titles",
+        "expected_display_value": "áo thun",
+        "expected_contains": ["áo", "thun"]
+    },
+    "TK_02": {
+        "test_name": "Verify search with non-existing keyword",
+        "keyword": "qwerty",
+        "assertion": "no_result"
+    },
+    "TK_03": {
+        "test_name": "Verify search with special characters",
+        "keyword": "@/@*",
+        "assertion": "no_result"
+    },
+    "TK_04": {
+        "test_name": "Verify search with numeric keyword",
+        "keyword": "123456",
+        "assertion": "no_result"
+    },
+    "TK_05": {
+        "test_name": "Verify search with leading space",
+        "keyword": " áo thun",
+        "assertion": "related_titles",
+        "expected_display_value": " áo thun",
+        "expected_contains": ["áo", "thun"]
+    },
+    "TK_06": {
+        "test_name": "Verify search with spaces inside keyword",
+        "keyword": " á o thu n",
+        "assertion": "related_titles",
+        "expected_display_value": " á o thu n",
+        "expected_contains": ["áo", "thun"]
+    },
+    "TK_07": {
+        "test_name": "Verify search with Vietnamese keyword without accents",
+        "keyword": "ao so mi",
+        "assertion": "related_titles",
+        "expected_display_value": "ao so mi",
+        "expected_contains": ["ao", "so", "mi"]
+    },
+    "TK_08": {
+        "test_name": "Verify search with empty keyword",
+        "keyword": "",
+        "assertion": "home_page",
+        "expected_home_url": "https://www.muji.com.vn/vn"
+    },
+    "TK_09": {
+        "test_name": "Verify search with keyword containing letters and numbers",
+        "keyword": "áo thun 2025",
+        "assertion": "related_titles",
+        "expected_display_value": "áo thun 2025",
+        "expected_contains": ["áo", "thun"]
+    },
+    "TK_10": {
+        "test_name": "Verify search with keyword longer than 100 characters",
+        "keyword": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "assertion": "no_result"
+    }
+}

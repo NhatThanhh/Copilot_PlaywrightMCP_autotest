@@ -1,0 +1,200 @@
+{
+  "DK_01": {
+    "description": "Register with valid information",
+    "email": "thanhblink03@gmail.com",
+    "password": "Th@nh2004",
+    "phone": "0376704109",
+    "full_name": "Nguyễn Nhật Thanh",
+    "date_of_birth": "20/08/2004",
+    "gender": "Nam",
+    "expect": {
+      "type": "success_or_error",
+      "contains": [
+        "thanhblink02@gmail.com",
+        "Chúng tôi đã gửi email xác nhận",
+        "Vui lòng kiểm tra email",
+        "Địa chỉ email đã tồn tại"
+      ]
+    }
+  },
+  "DK_02": {
+    "description": "Register with existing email",
+    "email": "thanhblink@gmail.com",
+    "password": "Th@nh2004",
+    "phone": "0376704109",
+    "full_name": "Nguyễn Nhật Thanh",
+    "date_of_birth": "20/08/2004",
+    "gender": "Nam",
+    "expect": {
+      "type": "error",
+      "contains": [
+        "Địa chỉ email đã tồn tại"
+      ]
+    }
+  },
+  "DK_03": {
+    "description": "Register with all fields empty",
+    "email": "",
+    "password": "",
+    "phone": "",
+    "full_name": "",
+    "date_of_birth": "",
+    "gender": "",
+    "expect": {
+      "type": "error",
+      "contains": [
+        "Thông tin bắt buộc"
+      ]
+    }
+  },
+  "DK_04": {
+    "description": "Register with empty email",
+    "email": "",
+    "password": "Th@nh2004",
+    "phone": "0376704109",
+    "full_name": "Nguyễn Nhật Thanh",
+    "date_of_birth": "20/08/2004",
+    "gender": "Nam",
+    "expect": {
+      "type": "error",
+      "contains": [
+        "Thông tin bắt buộc"
+      ]
+    }
+  },
+  "DK_05": {
+    "description": "Register with invalid email format",
+    "email": "testmoneymanagementgmail.com",
+    "password": "Th@nh2004",
+    "phone": "0376704109",
+    "full_name": "Nguyễn Nhật Thanh",
+    "date_of_birth": "20/08/2004",
+    "gender": "Nam",
+    "expect": {
+      "type": "error",
+      "contains": [
+        "Vui lòng nhập email hợp lệ"
+      ]
+    }
+  },
+  "DK_06": {
+    "description": "Register with email containing leading space",
+    "email": " testmoneymanagementgmail.com",
+    "password": "Th@nh2004",
+    "phone": "0376704109",
+    "full_name": "Nguyễn Nhật Thanh",
+    "date_of_birth": "20/08/2004",
+    "gender": "Nam",
+    "expect": {
+      "type": "error",
+      "contains": [
+        "Vui lòng nhập email hợp lệ"
+      ]
+    }
+  },
+  "DK_07": {
+    "description": "Register with empty password",
+    "email": "testmoneymanagement@gmail.com",
+    "password": "",
+    "phone": "0376704109",
+    "full_name": "Nguyễn Nhật Thanh",
+    "date_of_birth": "20/08/2004",
+    "gender": "Nam",
+    "expect": {
+      "type": "error",
+      "contains": [
+        "Thông tin bắt buộc"
+      ]
+    }
+  },
+  "DK_08": {
+    "description": "Register with password shorter than 6 characters",
+    "email": "testmoneymanagement@gmail.com",
+    "password": "Th@nh",
+    "phone": "0376704109",
+    "full_name": "Thanh",
+    "date_of_birth": "20/08/2004",
+    "gender": "Nam",
+    "expect": {
+      "type": "error",
+      "contains": [
+        "Mật khẩu có ít nhất 6 ký tự"
+      ]
+    }
+  },
+  "DK_09": {
+    "description": "Register with password missing uppercase character",
+    "email": "uppercasecharacteremail02@gmail.com",
+    "password": "th@nh2004",
+    "phone": "0376704109",
+    "full_name": "Nguyễn Nhật Thanh",
+    "date_of_birth": "20/08/2004",
+    "gender": "Nam",
+    "expect": {
+      "type": "error",
+      "contains": [
+        "Mật khẩu không hợp lệ"
+      ]
+    }
+  },
+  "DK_10": {
+    "description": "Register with password containing leading space",
+    "email": "testregisteremail@gmail.com",
+    "password": " th@nh2004",
+    "phone": "0376704109",
+    "full_name": "Nguyễn Nhật Thanh",
+    "date_of_birth": "20/08/2004",
+    "gender": "Nam",
+    "expect": {
+      "type": "error",
+      "contains": [
+        "The password can't begin or end with a space"
+      ]
+    }
+  },
+  "DK_11": {
+    "description": "Register with invalid full name containing only one word",
+    "email": "testregisteremail@gmail.com",
+    "password": "Th@nh2004",
+    "phone": "0376704109",
+    "full_name": "Thanh",
+    "date_of_birth": "20/08/2004",
+    "gender": "Nam",
+    "expect": {
+      "type": "error",
+      "contains": [
+        "Nhập họ tên đầy đủ của bạn"
+      ]
+    }
+  },
+  "DK_12": {
+    "description": "Register with invalid full name containing only numbers",
+    "email": "numberfullname01@gmail.com",
+    "password": "Th@nh2004",
+    "phone": "0856235879",
+    "full_name": "123 456",
+    "date_of_birth": "20/08/2004",
+    "gender": "Nam",
+    "expect": {
+      "type": "error",
+      "contains": [
+        "Họ tên không hợp lệ"
+      ]
+    }
+  },
+  "DK_13": {
+    "description": "Register with invalid full name containing special characters",
+    "email": "specialcharacteremail01@gmail.com",
+    "password": "Th@nh2004",
+    "phone": "0376704109",
+    "full_name": "Nguyễn Thanh*@",
+    "date_of_birth": "20/08/2004",
+    "gender": "Nam",
+    "expect": {
+      "type": "error",
+      "contains": [
+        "Last Name is not valid!"
+      ]
+    }
+  }
+}

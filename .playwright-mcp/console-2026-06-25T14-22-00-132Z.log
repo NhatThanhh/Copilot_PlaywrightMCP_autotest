@@ -1,0 +1,8 @@
+[     993ms] [WARNING] addToCartText is deprecated, please use shopping_cart_style widget param instead. Example: <fw-storyblock shopping_cart_style="bag" /> @ https://asset.fwcdn3.com/js/fwn.js:15
+[    1054ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://www.muji.com.vn/api/reloadCart:0
+[    1967ms] [LOG] Amazon IVS Player SDK 1.43.0 @ https://asset.fwcdn3.com/js/assets/amazon-ivs-wasmworker.min.5c56f971916d2d6bb7b5ac49cddaf324.js:1
+[    1988ms] [LOG] Amazon IVS Player SDK 1.43.0 @ https://asset.fwcdn3.com/js/assets/amazon-ivs-wasmworker.min.5c56f971916d2d6bb7b5ac49cddaf324.js:1
+[    2018ms] [LOG] MediaCapabilities found [Object, Object, Object, Object] @ https://asset.fwcdn3.com/js/assets/amazon-ivs-wasmworker.min.5c56f971916d2d6bb7b5ac49cddaf324.js:1
+[    2040ms] [LOG] MediaCapabilities found [Object, Object, Object, Object] @ https://asset.fwcdn3.com/js/assets/amazon-ivs-wasmworker.min.5c56f971916d2d6bb7b5ac49cddaf324.js:1
+[    2181ms] [LOG] 21:22:02 - (playback-monitor) Play - moving to buffered region 0.032 0 @ https://asset.fwcdn3.com/js/chunks/fwn/3867-d409226e7ded5122eb89.js:2
+[    2181ms] [WARNING] Moving to buffered region 0.032 0 @ https://asset.fwcdn3.com/js/chunks/fwn/3867-d409226e7ded5122eb89.js:2

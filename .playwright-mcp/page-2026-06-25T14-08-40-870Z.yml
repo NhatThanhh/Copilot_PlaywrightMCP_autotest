@@ -1,0 +1,171 @@
+- generic [ref=e1]:
+  - banner [ref=e2]:
+    - paragraph [ref=e8]: Miễn phí vận chuyển cho mọi đơn hàng từ 499.000 VNĐ - Hotline 1900 255 579
+    - generic [ref=e23]:
+      - link "Welcome to MUJI" [ref=e30] [cursor=pointer]:
+        - /url: /vn
+        - img "Welcome to MUJI" [ref=e31]
+      - generic [ref=e33]:
+        - generic [ref=e36]:
+          - img [ref=e37]
+          - textbox "Search" [ref=e40]:
+            - /placeholder: Bạn đang muốn tìm kiếm gì?
+          - img "Đóng" [ref=e41] [cursor=pointer]
+        - link "Đăng nhập" [active] [ref=e1913] [cursor=pointer]:
+          - /url: /vn/login
+          - img [ref=e1914]
+        - generic [ref=e42] [cursor=pointer]:
+          - generic [ref=e43]: "0"
+          - img [ref=e45]
+  - main [ref=e49]:
+    - generic [ref=e1920]:
+      - heading "Thành Viên Đăng Nhập" [level=3] [ref=e1922]
+      - generic [ref=e1923]:
+        - generic [ref=e1924]:
+          - generic [ref=e1925]:
+            - text: Địa chỉ Email *
+            - textbox "Địa chỉ Email *" [ref=e1926]:
+              - /placeholder: Nhập địa chỉ email
+          - generic [ref=e1927]:
+            - generic [ref=e1928]:
+              - text: Mật khẩu *
+              - textbox "Mật khẩu *" [ref=e1929]:
+                - /placeholder: Nhập mật khẩu
+            - img [ref=e1931] [cursor=pointer]
+          - button "Đăng nhập" [ref=e1936] [cursor=pointer]
+        - link "Quên Mật Khẩu?" [ref=e1938] [cursor=pointer]:
+          - /url: /vn/forgot-password
+      - generic [ref=e1939]:
+        - strong [ref=e1940]: Thành viên mới tại MUJI?
+        - paragraph [ref=e1941]: Hãy tham gia cùng chúng tôi để nhận được thông báo về ưu đãi mới và mã giảm giá hấp dẫn.
+        - link "Đăng ký thành viên mới" [ref=e1942] [cursor=pointer]:
+          - /url: /vn/register
+  - contentinfo [ref=e1779]:
+    - generic [ref=e1781]:
+      - generic [ref=e1782]:
+        - paragraph [ref=e1785]:
+          - img "MUJI Viet Nam" [ref=e1786]
+        - paragraph [ref=e1789]:
+          - link "Đã thông báo bộ công thương" [ref=e1790] [cursor=pointer]:
+            - /url: http://online.gov.vn/Home/WebDetails/123273
+            - img "Đã thông báo bộ công thương" [ref=e1791]
+      - generic [ref=e1793]:
+        - list [ref=e1794]:
+          - listitem [ref=e1795]:
+            - strong [ref=e1796]: Về MUJI
+          - listitem [ref=e1797]:
+            - link "MUJI là gì?" [ref=e1798] [cursor=pointer]:
+              - /url: /vn/page/about
+          - listitem [ref=e1799]:
+            - link "Thông báo" [ref=e1800] [cursor=pointer]:
+              - /url: /vn/page/notice
+          - listitem [ref=e1801]:
+            - link "Cơ hội nghề nghiệp" [ref=e1802] [cursor=pointer]:
+              - /url: /vn/page/careers
+          - listitem [ref=e1803]:
+            - link "Câu hỏi thường gặp" [ref=e1804] [cursor=pointer]:
+              - /url: /vn/page/faq
+          - listitem [ref=e1805]:
+            - link "MUJI Catalog Hàng Gia Dụng" [ref=e1806] [cursor=pointer]:
+              - /url: https://drive.google.com/file/d/1EKamrFCZqF-4difsKUT_i99vj9aGli-Y/view?usp=sharing
+        - list [ref=e1807]:
+          - listitem [ref=e1808]:
+            - strong [ref=e1809]: Cửa hàng Bán lẻ
+          - listitem [ref=e1810]:
+            - link "Chính sách Đổi, Trả, Hoàn tiền" [ref=e1811] [cursor=pointer]:
+              - /url: /vn/page/notice-2716
+          - listitem [ref=e1812]:
+            - link "Danh sách cửa hàng" [ref=e1813] [cursor=pointer]:
+              - /url: /vn/page/store-location
+        - list [ref=e1814]:
+          - listitem [ref=e1815]:
+            - strong [ref=e1816]: Cửa hàng Trực tuyến
+          - listitem [ref=e1817]:
+            - link "Chính sách Bán hàng" [ref=e1818] [cursor=pointer]:
+              - /url: /vn/page/sales-policy
+          - listitem [ref=e1819]:
+            - link "Chính sách Giao hàng" [ref=e1820] [cursor=pointer]:
+              - /url: /vn/page/delivery
+          - listitem [ref=e1821]:
+            - link "Chính sách Trả hàng, Hoàn tiền" [ref=e1822] [cursor=pointer]:
+              - /url: /vn/page/refund
+          - listitem [ref=e1823]:
+            - link "Chính sách Đổi hàng" [ref=e1824] [cursor=pointer]:
+              - /url: /vn/page/return
+          - listitem [ref=e1825]:
+            - link "Chính sách Bảo hành" [ref=e1826] [cursor=pointer]:
+              - /url: /vn/page/warranty
+          - listitem [ref=e1827]:
+            - link "Chính sách Bảo mật" [ref=e1828] [cursor=pointer]:
+              - /url: /vn/page/privacy
+          - listitem [ref=e1829]:
+            - link "Chính sách Nhận hàng tại cửa hàng" [ref=e1830] [cursor=pointer]:
+              - /url: https://www.muji.com.vn/vn/page/pickupstore
+      - generic [ref=e1831]:
+        - paragraph [ref=e1834]: Đăng ký nhận bản tin từ MUJI
+        - generic [ref=e1835]:
+          - generic [ref=e1836]:
+            - textbox "Nhập địa chỉ email" [ref=e1838]
+            - button "Đăng ký" [ref=e1839] [cursor=pointer]
+          - region "Notifications (F8)":
+            - list
+        - list [ref=e1842]:
+          - listitem [ref=e1843]:
+            - link "Zalo" [ref=e1844] [cursor=pointer]:
+              - /url: https://zalo.me/1276233230047562218
+              - img "Zalo" [ref=e1845]
+          - listitem [ref=e1846]:
+            - link "Facebook" [ref=e1847] [cursor=pointer]:
+              - /url: https://www.facebook.com/MUJIVietnam
+              - img "Facebook" [ref=e1848]
+          - listitem [ref=e1849]:
+            - link "Instagram" [ref=e1850] [cursor=pointer]:
+              - /url: https://www.instagram.com/muji_vn/
+              - img "Instagram" [ref=e1851]
+          - listitem [ref=e1852]:
+            - link "Tiktok" [ref=e1853] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@mujivietnam
+              - img "Tiktok" [ref=e1854]
+    - generic [ref=e1857]:
+      - paragraph [ref=e1858]:
+        - emphasis [ref=e1859]: Bản quyền thuộc © Ryohin Keikaku Co., Ltd.
+      - paragraph [ref=e1860]:
+        - strong [ref=e1861]: CÔNG TY TNHH MUJI RETAIL (VIỆT NAM)
+      - paragraph [ref=e1862]: "ĐKKD SỐ 0315855270 do sở KH & ĐT TP.HCM cấp ngày: 20/08/2019"
+      - paragraph [ref=e1863]: "Trụ sở chính: Phòng số 09-00, Tầng 9, Tòa nhà số 9-11, đường Tôn Đức Thắng, Phường Sài Gòn, Thành phố Hồ Chí Minh, Việt Nam"
+      - paragraph [ref=e1864]: "Liên hệ trụ sở: 028 7108 8388"
+      - paragraph [ref=e1865]: "Thời gian làm việc: Thứ 2 - Thứ 6, Từ 08:00 sáng - 05:00 chiều"
+      - paragraph [ref=e1866]:
+        - text: "Chăm sóc khách hàng tại các cửa hàng:"
+        - link "https://www.muji.com.vn/vn/page/store-location" [ref=e1867] [cursor=pointer]:
+          - /url: https://www.muji.com.vn/vn/page/store-location
+      - paragraph [ref=e1868]:
+        - text: "Chăm sóc khách hàng thương mại điện tử: 1900 2555 79; Email:"
+        - link "ec.sale@muji.vn" [ref=e1869] [cursor=pointer]:
+          - /url: mailto:ec.sale@muji.vn
+      - paragraph [ref=e1870]
+    - generic [ref=e1871]:
+      - img "Support" [ref=e1872] [cursor=pointer]
+      - link "Hotline" [ref=e1875] [cursor=pointer]:
+        - /url: tel:1900255579
+        - img "Hotline" [ref=e1876]
+    - generic:
+      - button:
+        - img
+  - generic [ref=e1881]:
+    - paragraph [ref=e1884]:
+      - text: Chúng tôi sử dụng cookie (và các công nghệ tương tự khác) để thu thập dữ liệu nhằm cải thiện trải nghiệm mua sắm của bạn. Khi sử dụng trang web của chúng tôi, bạn đồng ý với việc thu thập dữ liệu như được mô tả trong
+      - link "Chính sách bảo mật" [ref=e1886] [cursor=pointer]:
+        - /url: https://www.muji.com.vn/vn/page/privacy
+      - text: của chúng tôi.
+    - button "Chấp nhận cookie" [ref=e1888] [cursor=pointer]:
+      - generic [ref=e1889]: Chấp nhận cookie
+    - paragraph [ref=e1890] [cursor=pointer]:
+      - img "close cookie" [ref=e1891]
+  - alert [ref=e1892]
+  - region "player:Picture in Picture window" [ref=e1893]:
+    - button "Close player" [ref=e1902] [cursor=pointer]:
+      - generic [ref=e1903]:
+        - img "Close player" [ref=e1905]
+        - generic: Close player
+  - status [ref=e1912]

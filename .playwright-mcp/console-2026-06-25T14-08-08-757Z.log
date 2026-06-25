@@ -1,0 +1,53 @@
+[    1644ms] [WARNING] addToCartText is deprecated, please use shopping_cart_style widget param instead. Example: <fw-storyblock shopping_cart_style="bag" /> @ https://asset.fwcdn3.com/js/fwn.js:15
+[    1732ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://www.muji.com.vn/api/reloadCart:0
+[    2307ms] [INFO] %cFW-WARNING 
+color: black;
+padding: 2px 4px;
+border-radius: 2px;
+background: rgb(255,62,33);
+background: linear-gradient(90deg, rgba(255,62,33,1) 35%, rgba(254,209,23,1) 100%);
+ PixelURL missing the following required params: channel, context, guest_id @ https://asset.fwcdn3.com/js/fwn.js:15
+[    2308ms] [INFO] %cFW-WARNING 
+color: black;
+padding: 2px 4px;
+border-radius: 2px;
+background: rgb(255,62,33);
+background: linear-gradient(90deg, rgba(255,62,33,1) 35%, rgba(254,209,23,1) 100%);
+ PixelURL missing the following required params: channel, context, guest_id @ https://asset.fwcdn3.com/js/fwn.js:15
+[    3272ms] [LOG] Amazon IVS Player SDK 1.43.0 @ https://asset.fwcdn3.com/js/assets/amazon-ivs-wasmworker.min.5c56f971916d2d6bb7b5ac49cddaf324.js:1
+[    3299ms] [LOG] Amazon IVS Player SDK 1.43.0 @ https://asset.fwcdn3.com/js/assets/amazon-ivs-wasmworker.min.5c56f971916d2d6bb7b5ac49cddaf324.js:1
+[    3334ms] [LOG] Amazon IVS Player SDK 1.43.0 @ https://asset.fwcdn3.com/js/assets/amazon-ivs-wasmworker.min.5c56f971916d2d6bb7b5ac49cddaf324.js:1
+[    3355ms] [LOG] Amazon IVS Player SDK 1.43.0 @ https://asset.fwcdn3.com/js/assets/amazon-ivs-wasmworker.min.5c56f971916d2d6bb7b5ac49cddaf324.js:1
+[    3384ms] [LOG] Amazon IVS Player SDK 1.43.0 @ https://asset.fwcdn3.com/js/assets/amazon-ivs-wasmworker.min.5c56f971916d2d6bb7b5ac49cddaf324.js:1
+[    3404ms] [LOG] MediaCapabilities found [Object, Object, Object, Object] @ https://asset.fwcdn3.com/js/assets/amazon-ivs-wasmworker.min.5c56f971916d2d6bb7b5ac49cddaf324.js:1
+[    3416ms] [LOG] Amazon IVS Player SDK 1.43.0 @ https://asset.fwcdn3.com/js/assets/amazon-ivs-wasmworker.min.5c56f971916d2d6bb7b5ac49cddaf324.js:1
+[    3426ms] [LOG] MediaCapabilities found [Object, Object, Object, Object] @ https://asset.fwcdn3.com/js/assets/amazon-ivs-wasmworker.min.5c56f971916d2d6bb7b5ac49cddaf324.js:1
+[    3459ms] [LOG] MediaCapabilities found [Object, Object, Object, Object] @ https://asset.fwcdn3.com/js/assets/amazon-ivs-wasmworker.min.5c56f971916d2d6bb7b5ac49cddaf324.js:1
+[    3492ms] [LOG] MediaCapabilities found [Object, Object, Object, Object] @ https://asset.fwcdn3.com/js/assets/amazon-ivs-wasmworker.min.5c56f971916d2d6bb7b5ac49cddaf324.js:1
+[    3668ms] [LOG] MediaCapabilities found [Object, Object, Object, Object] @ https://asset.fwcdn3.com/js/assets/amazon-ivs-wasmworker.min.5c56f971916d2d6bb7b5ac49cddaf324.js:1
+[    3701ms] [LOG] MediaCapabilities found [Object, Object, Object, Object] @ https://asset.fwcdn3.com/js/assets/amazon-ivs-wasmworker.min.5c56f971916d2d6bb7b5ac49cddaf324.js:1
+[    3926ms] [LOG] 21:08:12 - (playback-monitor) Play - moving to buffered region 0.032 0 @ https://asset.fwcdn3.com/js/chunks/fwn/3867-d409226e7ded5122eb89.js:2
+[    3927ms] [WARNING] Moving to buffered region 0.032 0 @ https://asset.fwcdn3.com/js/chunks/fwn/3867-d409226e7ded5122eb89.js:2
+[   26343ms] [WARNING] addToCartText is deprecated, please use shopping_cart_style widget param instead. Example: <fw-storyblock shopping_cart_style="bag" /> @ https://asset.fwcdn3.com/js/fwn.js:15
+[   26430ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://www.muji.com.vn/vn/login:0
+[   56475ms] [ERROR] Sending form data to 'https://www.facebook.com/tr/' violates the following Content Security Policy directive: "form-action 'self'". The request has been blocked.
+ @ https://www.googletagmanager.com/:0
+[   56475ms] [ERROR] Framing 'https://www.facebook.com/' violates the following Content Security Policy directive: "frame-src 'self' https://www.google.com https://www.googletagmanager.com https://www.googleadservices.com https://www.youtube.com https://td.doubleclick.net https://button-share.zalo.me https://page.widget.zalo.me". The request has been blocked.
+ @ https://www.googletagmanager.com/:0
+[   56484ms] [ERROR] Sending form data to 'https://www.facebook.com/tr/' violates the following Content Security Policy directive: "form-action 'self'". The request has been blocked.
+ @ https://www.googletagmanager.com/:0
+[   56484ms] [ERROR] Framing 'https://www.facebook.com/' violates the following Content Security Policy directive: "frame-src 'self' https://www.google.com https://www.googletagmanager.com https://www.googleadservices.com https://www.youtube.com https://td.doubleclick.net https://button-share.zalo.me https://page.widget.zalo.me". The request has been blocked.
+ @ https://www.googletagmanager.com/:0
+[   56490ms] [ERROR] Sending form data to 'https://www.facebook.com/tr/' violates the following Content Security Policy directive: "form-action 'self'". The request has been blocked.
+ @ https://www.googletagmanager.com/:0
+[   56490ms] [ERROR] Framing 'https://www.facebook.com/' violates the following Content Security Policy directive: "frame-src 'self' https://www.google.com https://www.googletagmanager.com https://www.googleadservices.com https://www.youtube.com https://td.doubleclick.net https://button-share.zalo.me https://page.widget.zalo.me". The request has been blocked.
+ @ https://www.googletagmanager.com/:0
+[   59113ms] [WARNING] addToCartText is deprecated, please use shopping_cart_style widget param instead. Example: <fw-storyblock shopping_cart_style="bag" /> @ https://asset.fwcdn3.com/js/fwn.js:15
+[   60409ms] [LOG] Amazon IVS Player SDK 1.43.0 @ https://asset.fwcdn3.com/js/assets/amazon-ivs-wasmworker.min.5c56f971916d2d6bb7b5ac49cddaf324.js:1
+[   60436ms] [LOG] Amazon IVS Player SDK 1.43.0 @ https://asset.fwcdn3.com/js/assets/amazon-ivs-wasmworker.min.5c56f971916d2d6bb7b5ac49cddaf324.js:1
+[   60460ms] [LOG] MediaCapabilities found [Object, Object, Object, Object] @ https://asset.fwcdn3.com/js/assets/amazon-ivs-wasmworker.min.5c56f971916d2d6bb7b5ac49cddaf324.js:1
+[   60469ms] [LOG] Amazon IVS Player SDK 1.43.0 @ https://asset.fwcdn3.com/js/assets/amazon-ivs-wasmworker.min.5c56f971916d2d6bb7b5ac49cddaf324.js:1
+[   60488ms] [LOG] MediaCapabilities found [Object, Object, Object, Object] @ https://asset.fwcdn3.com/js/assets/amazon-ivs-wasmworker.min.5c56f971916d2d6bb7b5ac49cddaf324.js:1
+[   60530ms] [LOG] MediaCapabilities found [Object, Object, Object, Object] @ https://asset.fwcdn3.com/js/assets/amazon-ivs-wasmworker.min.5c56f971916d2d6bb7b5ac49cddaf324.js:1
+[   60663ms] [LOG] 21:09:09 - (playback-monitor) Play - moving to buffered region 0.032 0 @ https://asset.fwcdn3.com/js/chunks/fwn/3867-d409226e7ded5122eb89.js:2
+[   60663ms] [WARNING] Moving to buffered region 0.032 0 @ https://asset.fwcdn3.com/js/chunks/fwn/3867-d409226e7ded5122eb89.js:2
