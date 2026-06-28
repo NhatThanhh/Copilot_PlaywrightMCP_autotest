@@ -1,7 +1,7 @@
 {
   "DK_01": {
     "description": "Register with valid information",
-    "email": "thanhblink10@gmail.com",
+    "email": "thanhblink11@gmail.com",
     "password": "Th@nh2004",
     "phone": "0376704109",
     "full_name": "Nguyễn Nhật Thanh",
@@ -124,7 +124,7 @@
   },
   "DK_09": {
     "description": "Register with password missing uppercase character",
-    "email": "uppercasecharacteremail10@gmail.com",
+    "email": "uppercasecharacteremail11@gmail.com",
     "password": "th@nh2004",
     "phone": "0376704109",
     "full_name": "Nguyễn Nhật Thanh",
@@ -169,7 +169,7 @@
   },
   "DK_12": {
     "description": "Register with invalid full name containing only numbers",
-    "email": "numberfullname10@gmail.com",
+    "email": "numberfullname11@gmail.com",
     "password": "Th@nh2004",
     "phone": "0856235879",
     "full_name": "123 456",
